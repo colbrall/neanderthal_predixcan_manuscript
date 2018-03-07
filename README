@@ -1,0 +1,27 @@
+readme for predixcan manuscript github
+
+scripts/
+comp_pop.jl 
+	calculates empirical p-values, runs PCA and clustering analyses
+	requires population predictions and archaic predictions or pre-computed p-values
+
+comp_inds.jl 
+	comparisons of predicted expression between archaic individuals
+	requires archaic predictions
+
+gene_overlap.jl
+	intersects gene models and SNPs or regions of interest
+	requires lists of regions of interest
+
+model_weights.jl
+	stats for comparing model weights between sets of SNPs
+	requires model databases, SNP sets
+
+predixcan_analyses.R
+	everything else
+
+data/
+	archaic predicted expression files
+	archaic 1kG empirical p-values
+* GO analyses
+* PheWAS results table
