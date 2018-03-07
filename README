@@ -26,6 +26,8 @@ data/
 	PheWAS results tables
     *genes*
 	lists of introgressed and desert gene models by Ensembl ID and/or Name
+    gene-dersnp_intersection.txt
+	genes by ensembl ID and counts of archaic derived SNPs within 1Mb of them
 
 DR_genes_GO/
 	cross-species GO analyses- overlap of DR genes
