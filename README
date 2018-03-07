@@ -24,6 +24,8 @@ data/
 	archaic 1kG empirical p-values
     *phewas.txt
 	PheWAS results tables
+    *genes*
+	lists of introgressed and desert gene models by Ensembl ID and/or Name
 
 DR_genes_GO/
 	cross-species GO analyses- overlap of DR genes
