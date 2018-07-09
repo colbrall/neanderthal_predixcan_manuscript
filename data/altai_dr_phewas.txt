@@ -1,0 +1,1117 @@
+tissue	phecode	beta	p-value	gene	trait	r2	no of cases	no of controls
+Pituitary	X751.3	8224670000000	0.00000e+0	ATP5G3	Obstructive genitourinary defect	3.91408e-2	34	8409
+Pituitary	X514.1	6990990000000	0.00000e+0	ATP5G3	Abnormal results of function study of pulmonary system	3.91408e-2	24	7886
+Pituitary	X636.2	3064280000000	0.00000e+0	ATP5G3	Early onset of delivery	3.91408e-2	31	8943
+Skin-SunExposed-Lowerleg	X110.13	8.18094	1.02788e-8	CMTM2	Dermatophytosis of the body	1.33660e-2	37	7391
+Muscle-Skeletal	X817	11.8899	1.13857e-8	CTDSPL2	Concussion	1.32619e-3	29	8639
+Colon-Sigmoid	X636.3	2.81992	1.95137e-8	ARHGAP11A	Hemorrhage in early pregnancy	4.11296e-2	33	8943
+Cells-Transformedfibroblasts	X514.2	-13.4547	2.12296e-8	ABHD17B	Solitary pulmonary nodule	2.17029e-3	43	7886
+Spleen	X655.1	13.6936	4.13857e-8	CYP11A1	Abnormality in fetal heart rate or rhythm	3.30658e-2	31	8959
+Heart-LeftVentricle	X977	4.74509	7.58167e-8	C17orf50	Personal history of allergy to medicinal agents	1.78046e-3	30	6561
+Brain-Hippocampus	X227.1	-0.211575	7.83145e-8	C21orf59	Benign neoplasm of adrenal gland	3.71103e-3	22	8574
+Breast-MammaryTissue	X374.6	4.93981	9.86755e-8	CXXC4	Dermatochalasis	2.23472e-2	94	7798
+Nerve-Tibial	X530.6	-10.1947	1.02254e-7	CABYR	Diverticulum of esophagus, acquired	2.64370e-3	21	5130
+Ovary	X585.32	7.77367	1.17055e-7	DCDC2B	End stage renal disease	5.40448e-3	597	5644
+Pancreas	X334	3.95847	1.44903e-7	ALOX15	Degenerative disease of the spinal cord	1.22442e-2	102	6544
+Heart-AtrialAppendage	X457.2	3.08464	1.82978e-7	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	4.46683e-2	40	6144
+Liver	X695.9	-2.3664	1.85307e-7	CPNE8	Unspecified erythematous condition	1.02948e-2	65	7590
+Esophagus-Muscularis	X474.2	-8.83391	1.90495e-7	CHAMP1	Chronic tonsillitis and adenoiditis	1.10720e-2	65	6193
+Brain-Nucleusaccumbens-basalganglia	X585.34	0.649756	1.92416e-7	CACNB2	Chronic Kidney Disease, Stage IV	6.66686e-2	329	5644
+Artery-Coronary	X624	-1.3068	2.18120e-7	C4orf3	Symptoms involving female genital tract	5.36464e-2	31	8364
+Thyroid	X370.1	4.96096	2.29158e-7	CTXN3	Corneal ulcer	3.98542e-2	23	7798
+Esophagus-Mucosa	X686.1	-4.79682	2.30137e-7	BTN2A2	Carbuncle and furuncle	4.93839e-3	42	6905
+Brain-Cortex	X78	0.0487272	2.35303e-7	C1QTNF9B	Viral warts & HPV	9.36960e-2	201	7233
+Brain-CerebellarHemisphere	X202.21	-1.69983	2.74699e-7	DCDC2B	Nodular lymphoma	6.64931e-3	109	8016
+Brain-CerebellarHemisphere	X427.61	-0.0553091	2.78336e-7	CPE	Supraventricular premature beats	7.43538e-2	20	4456
+Esophagus-Mucosa	X348	-1.11517	2.98079e-7	BBOX1	Other conditions of brain	6.95636e-2	398	6544
+Colon-Sigmoid	X411.3	2.58534	2.99942e-7	COL28A1	Angina pectoris	2.70921e-3	425	5786
+Skin-SunExposed-Lowerleg	X81.12	-42.5868	3.61468e-7	CDIPT	Chronic graft-versus-host disease	2.00222e-2	24	7508
+Brain-Nucleusaccumbens-basalganglia	X789.1	35.8973	3.96769e-7	DEPDC5	Persistent vomiting	1.90943e-2	43	5912
+Brain-Hippocampus	X250.14	1.28833	5.41624e-7	ATAT1	Type 1 diabetes with neurological manifestations	2.40414e-2	168	4936
+Brain-Anteriorcingulatecortex-BA24	X759	36.7459	5.86405e-7	CEP170B	Other and unspecified congenital anomalies	2.02689e-2	65	8947
+Esophagus-Muscularis	X474	-8.12841	6.06732e-7	CHAMP1	Acute and chronic tonsillitis	1.10720e-2	74	6193
+Esophagus-GastroesophagealJunction	X275.53	-8.32177	6.25405e-7	ADH5	Disorders of phosphorus metabolism	3.13986e-3	293	7588
+Brain-Cortex	X577.1	-9.25223	7.08467e-7	ACOT8	Acute pancreatitis	7.87067e-3	151	8624
+Testis	X287.3	2.01777	7.23620e-7	ADI1	Thrombocytopenia	3.25964e-2	847	5981
+Heart-AtrialAppendage	X350.2	19.8721	8.02447e-7	CHMP6	Abnormality of gait	1.65845e-3	457	7897
+Brain-Putamen-basalganglia	X530.14	-8.91413	8.05208e-7	CD19	Reflux esophagitis	9.27298e-3	39	5130
+Lung	X241	-1.53033	8.25245e-7	CIAPIN1	Nontoxic nodular goiter	1.49504e-2	244	7001
+Esophagus-Mucosa	X287.3	0.90814	8.36658e-7	ADI1	Thrombocytopenia	9.00208e-2	847	5981
+Nerve-Tibial	X766	-1.05345	8.55844e-7	CCDC114	Neuralgia, neuritis, and radiculitis NOS	1.29456e-1	304	7889
+Testis	X287	1.96	8.60935e-7	ADI1	Purpura and other hemorrhagic conditions	3.25964e-2	895	5981
+Heart-LeftVentricle	X153.3	7.5676	8.63419e-7	C15orf65	Malignant neoplasm of rectum, rectosigmoid junction, and anus	3.24521e-3	143	7198
+Brain-Caudate-basalganglia	X818.2	9.73582	8.69842e-7	CWH43	Subarachnoid hemorrhage (injury)	7.66622e-2	37	8639
+Esophagus-Mucosa	X287	0.88584	8.91783e-7	ADI1	Purpura and other hemorrhagic conditions	9.00208e-2	895	5981
+Heart-AtrialAppendage	X252.2	-0.0163755	9.21511e-7	BIN3	Hypoparathyroidism	9.51441e-2	24	7558
+Esophagus-GastroesophagealJunction	X427	0.411608	9.40748e-7	CKS2	Cardiac dysrhythmias	1.02591e-1	3309	4456
+Nerve-Tibial	X473.3	1.08371	9.54619e-7	CAST	Paralysis/spasm of vocal cords or larynx	4.18070e-1	56	6193
+Ovary	X245.2	-4.92994	9.61022e-7	ABT1	Chronic thyroiditis	2.95613e-2	44	7001
+Artery-Aorta	X740.11	-2.31082	1.03786e-6	ADCY5	Osteoarthrosis, localized, primary	7.27236e-3	501	6692
+Liver	X512	0.286686	1.09161e-6	DNA2	Other symptoms of respiratory system	2.87370e-1	4237	3702
+Brain-Cerebellum	X71	0.219466	1.10328e-6	DNAH7	Human immunodeficiency virus [HIV] disease	2.12422e-2	47	7233
+Brain-Cortex	X710.1	0.725265	1.10942e-6	AKR1C2	Osteomyelitis	3.05178e-1	343	7311
+Spleen	X655	7.49031	1.11023e-6	CYP11A1	Known or suspected fetal abnormality affecting management of mother	3.30658e-2	123	8959
+Brain-Cerebellum	X71.1	0.219945	1.12962e-6	DNAH7	HIV infection, symptomatic	2.12422e-2	46	7233
+SmallIntestine-TerminalIleum	X395.4	-18.5055	1.14910e-6	COL28A1	Nonrheumatic pulmonary valve disorders	4.51936e-2	20	7079
+Pancreas	X253	1.01018	1.15790e-6	DCTN5	Disorders of the pituitary gland and its hypothalamic control	1.28724e-1	149	7558
+Artery-Aorta	X287.3	0.347685	1.18979e-6	ADI1	Thrombocytopenia	2.36554e-1	847	5981
+Skin-NotSunExposed-Suprapubic	X362.4	13.9281	1.21909e-6	CENPF	Retinal vascular changes and abnomalities	2.06950e-2	78	7724
+Pancreas	X374.3	3.30186	1.22449e-6	CUTA	Ptosis of eyelid	1.50475e-2	75	7798
+Brain-Hippocampus	X264.1	-12.575	1.34393e-6	DAAM1	Short stature	3.93820e-2	35	6138
+Thyroid	X706.1	1.80013	1.41074e-6	ARPC1B	Acne	6.98198e-2	90	8052
+Heart-LeftVentricle	X287.3	0.487434	1.50394e-6	ADI1	Thrombocytopenia	1.96377e-1	847	5981
+Lung	X260.3	-1.74805	1.51558e-6	BHLHE22	Adult failure to thrive	1.23982e-2	215	6138
+Lung	X250.11	2.75964	1.59489e-6	CRELD2	Type 1 diabetes with ketoacidosis	8.77113e-2	48	4936
+Artery-Aorta	X287	0.335588	1.60220e-6	ADI1	Purpura and other hemorrhagic conditions	2.36554e-1	895	5981
+Skin-NotSunExposed-Suprapubic	X874	-7.27344	1.60621e-6	ATG14	Complication of amputation stump	1.46917e-2	45	7534
+Brain-Putamen-basalganglia	X252.1	1.71444	1.62368e-6	ARNTL	Hyperparathyroidism	4.23231e-2	121	7558
+Adipose-Subcutaneous	X427	0.53199	1.62530e-6	CKS2	Cardiac dysrhythmias	9.27670e-2	3309	4456
+Esophagus-Mucosa	X345.11	-1.79526	1.68297e-6	BBOX1	Generalized convulsive epilepsy	6.95636e-2	87	6544
+Esophagus-Mucosa	X245.2	3.06765	1.68547e-6	BTN3A1	Chronic thyroiditis	6.54859e-2	44	7001
+Artery-Aorta	X300.4	1.04568	1.72553e-6	CYP4V2	Dysthymic disorder	8.35431e-2	315	5392
+AdrenalGland	X656.2	4.66016	1.73070e-6	C11orf65	Respiratory conditions of fetus and newborn	3.60857e-2	43	9027
+Adipose-Subcutaneous	X394.1	39.016	1.80495e-6	C8orf31	Mitral valve stenosis and aortic valve stenosis	8.24050e-3	83	7079
+Liver	X246	16.7774	1.82032e-6	AGO4	Other disorders of thyroid	2.57942e-2	93	7001
+Skin-SunExposed-Lowerleg	X378	-4.69903	1.84601e-6	ADAMTS16	Strabismus and other disorders of binocular eye movements	3.79277e-3	96	7801
+Artery-Tibial	X509	1.33344	1.86173e-6	ATG12	Respiratory failure, insufficiency, arrest	1.45610e-2	1477	5061
+Heart-LeftVentricle	X287	0.472365	1.86455e-6	ADI1	Purpura and other hemorrhagic conditions	1.96377e-1	895	5981
+Brain-Cerebellum	X427	0.28544	1.92407e-6	CKS2	Cardiac dysrhythmias	1.72977e-1	3309	4456
+Artery-Tibial	X457.2	2.86515	1.94302e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	5.18260e-2	40	6144
+Cells-Transformedfibroblasts	X686.1	-7.10027	1.94731e-6	ABT1	Carbuncle and furuncle	1.85721e-3	42	6905
+Brain-Anteriorcingulatecortex-BA24	X446.9	-0.490736	1.95345e-6	CENPV	Arteritis NOS	3.69405e-1	48	6676
+Brain-Cerebellum	X559	1.7593	1.98145e-6	COL18A1	Ileostomy status	3.62459e-2	146	5956
+Colon-Sigmoid	X457.2	3.24614	2.05995e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	8.04558e-2	40	6144
+Artery-Aorta	X278	1.27875	2.09513e-6	ACOT8	Overweight, obesity and other hyperalimentation	5.51127e-3	1553	6887
+Artery-Tibial	X766	-0.906564	2.14231e-6	CCDC114	Neuralgia, neuritis, and radiculitis NOS	1.49078e-1	304	7889
+Brain-Cortex	X481	2.75832	2.14582e-6	DMTN	Influenza	5.88140e-2	139	6217
+Testis	X580	-1.20251	2.20149e-6	DNAH1	Nephritis; nephrosis; renal sclerosis	2.90608e-2	466	5644
+Muscle-Skeletal	X686.1	-5.31293	2.20662e-6	ABT1	Carbuncle and furuncle	1.51569e-2	42	6905
+Brain-Nucleusaccumbens-basalganglia	X830	1.56387	2.20908e-6	CCL27	Dislocation	1.61526e-2	324	8335
+Liver	X622	-1.95569	2.21419e-6	ARL11	Polyp of female genital organs	5.87862e-2	49	8951
+Esophagus-Mucosa	X245.21	1.67256	2.24038e-6	BTN2A1	Chronic lymphocytic thyroiditis	4.72539e-2	42	7001
+Brain-Cortex	X710	0.692271	2.26353e-6	AKR1C2	Osteomyelitis, periostitis, and other infections involving bone	3.05178e-1	357	7311
+Adipose-Subcutaneous	X457.2	0.814776	2.27179e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	4.57990e-1	40	6144
+Spleen	X519.9	1.05784	2.27267e-6	CAST	Symptoms involving respiratory system and other chest symptoms	1.69358e-1	325	8048
+Brain-Anteriorcingulatecortex-BA24	X513.8	-2.40332	2.33155e-6	DDX60	Disorders of diaphragm	7.28563e-2	33	7861
+Muscle-Skeletal	X335	-4.04699	2.35014e-6	CD209	Multiple sclerosis	1.94545e-2	84	6421
+Esophagus-Mucosa	X345.12	-1.57296	2.40325e-6	BBOX1	Partial epilepsy	6.95636e-2	122	6544
+Artery-Tibial	X874	-4.37265	2.43547e-6	ATG14	Complication of amputation stump	4.21981e-2	45	7534
+Cells-EBV-transformedlymphocytes	X790	-7.53656	2.43801e-6	C15orf65	Nonspecific findings on examination of blood	4.96522e-3	49	7554
+Brain-Putamen-basalganglia	X379.5	-5.85582	2.46299e-6	ALDH3A1	Disorders of iris and ciliary body	3.76097e-3	32	7801
+Artery-Tibial	X686.1	-2.69458	2.47400e-6	ABT1	Carbuncle and furuncle	4.75867e-2	42	6905
+Nerve-Tibial	X457.2	0.816962	2.52906e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	4.78731e-1	40	6144
+Colon-Transverse	X241.2	-4.17063	2.55243e-6	CLEC4A	Nontoxic multinodular goiter	5.22782e-3	159	7001
+Artery-Tibial	X287.3	0.688237	2.58320e-6	ADI1	Thrombocytopenia	1.06247e-1	847	5981
+Heart-AtrialAppendage	X520	4.28281	2.58522e-6	CPNE8	Disorders of tooth development	2.73030e-3	46	8243
+Stomach	X611	9.86323	2.62491e-6	COX5B	Abnormal findings on mammogram or breast exam	3.70362e-2	580	8102
+Colon-Sigmoid	X458.2	-0.0112203	2.66445e-6	CAST	Iatrogenic hypotension	2.66616e-1	35	6597
+Brain-Hippocampus	X378.5	3.48993	2.66765e-6	BBIP1	Paralytic strabismus	6.72150e-2	28	7801
+Muscle-Skeletal	X457.2	1.12069	2.73057e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	3.13860e-1	40	6144
+Liver	X429.1	18.6573	2.73132e-6	AGO4	Heart transplant/surgery	2.57942e-2	246	6286
+Ovary	X245.21	-4.84877	2.73993e-6	ABT1	Chronic lymphocytic thyroiditis	2.95613e-2	42	7001
+Ovary	X710.1	1.09432	2.76932e-6	AKR1C3	Osteomyelitis	9.56089e-2	343	7311
+Esophagus-Mucosa	X245.21	3.07479	2.77238e-6	BTN3A1	Chronic lymphocytic thyroiditis	6.54859e-2	42	7001
+Spleen	X250.11	-2.34563	2.78960e-6	C1orf111	Type 1 diabetes with ketoacidosis	6.34980e-3	48	4936
+Ovary	X379.9	-5.87786	2.83274e-6	ASPN	Pain, swelling or discharge of eye	4.96465e-3	35	7801
+Esophagus-Mucosa	X245.2	1.6214	2.83964e-6	BTN2A1	Chronic thyroiditis	4.72539e-2	44	7001
+Stomach	X601	1.80056	2.85899e-6	BRD8	Inflammatory diseases of prostate	7.35413e-3	128	7335
+Muscle-Skeletal	X573.2	1.81438	2.89102e-6	COL13A1	Liver replaced by transplant	1.71820e-2	147	6421
+Skin-SunExposed-Lowerleg	X81.1	-37.9475	2.90200e-6	CDIPT	Graft-versus-host disease	2.00222e-2	35	7508
+Ovary	X585.31	7.82452	2.91535e-6	DCDC2B	Renal dialysis	5.40448e-3	454	5644
+Ovary	X220	-2.3642	2.96316e-6	DEF8	Benign neoplasm of ovary	3.06742e-2	32	8547
+Esophagus-Mucosa	X530.14	-4.47115	3.03226e-6	CALY	Reflux esophagitis	7.52485e-3	39	5130
+Stomach	X874	-7.50756	3.03362e-6	ATG14	Complication of amputation stump	2.81529e-3	45	7534
+Brain-Cortex	X338.2	1.6505	3.15827e-6	ARHGAP27	Chronic pain	3.01718e-3	311	7363
+Thyroid	X245.2	2.34988	3.16652e-6	BTN3A1	Chronic thyroiditis	5.75258e-2	44	7001
+Brain-Putamen-basalganglia	X252	1.5506	3.18312e-6	ARNTL	Disorders of parathyroid gland	4.23231e-2	141	7558
+Esophagus-Mucosa	X245.21	-11.5317	3.19033e-6	C11orf65	Chronic lymphocytic thyroiditis	2.44647e-2	42	7001
+Testis	X686.1	16.962	3.21334e-6	BTN2A1	Carbuncle and furuncle	2.89176e-3	42	6905
+Cells-EBV-transformedlymphocytes	X798.1	-5.01953	3.22264e-6	ANKZF1	Chronic fatigue syndrome	1.34931e-2	20	4755
+Heart-AtrialAppendage	X520.2	4.28409	3.24793e-6	CPNE8	Disturbances in tooth eruption	2.73030e-3	44	8243
+Skin-SunExposed-Lowerleg	X536	7.58372	3.27789e-6	ARF3	Disorders of function of stomach	6.51443e-3	337	7579
+Brain-Cortex	X443.1	-23.8383	3.29438e-6	C12orf45	Raynaud's syndrome	8.96225e-2	45	6676
+Heart-LeftVentricle	X656.2	-59.9278	3.31650e-6	ATM	Respiratory conditions of fetus and newborn	2.92100e-2	43	9027
+Heart-LeftVentricle	X728.71	4.7884	3.32220e-6	CHMP6	Contracture of palmar fascia [Dupuytren's disease]	2.99273e-2	33	6730
+Skin-SunExposed-Lowerleg	X362.29	-4.70485	3.42244e-6	ADAMTS16	Macular degeneration (senile) of retina NOS	3.79277e-3	92	7724
+Lung	X245.2	3.69711	3.45123e-6	BTN3A1	Chronic thyroiditis	2.36513e-2	44	7001
+Thyroid	X871	-1.1724	3.52788e-6	ANK3	Open wounds of extremities	7.00235e-2	401	7534
+Pituitary	X242.2	-4.81015	3.53152e-6	BBIP1	Toxic multinodular goiter	4.33462e-3	27	7001
+Heart-LeftVentricle	X292.6	2.26506	3.55534e-6	ADPRHL1	Hallucinations	5.84435e-2	31	6654
+Skin-SunExposed-Lowerleg	X686.1	-4.80283	3.58451e-6	ABT1	Carbuncle and furuncle	3.04873e-2	42	6905
+Brain-FrontalCortex-BA9	X370.1	-30.563	3.62730e-6	ADNP2	Corneal ulcer	7.55026e-2	23	7798
+SmallIntestine-TerminalIleum	X686.1	-1.04704	3.65372e-6	BTN2A1	Carbuncle and furuncle	6.78472e-2	42	6905
+Skin-NotSunExposed-Suprapubic	X457.2	1.17959	3.67101e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	3.09298e-1	40	6144
+Skin-SunExposed-Lowerleg	X245.21	2.9683	3.71733e-6	BTN3A1	Chronic lymphocytic thyroiditis	6.85601e-2	42	7001
+Skin-SunExposed-Lowerleg	X457.2	0.948046	3.72934e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	3.61639e-1	40	6144
+Artery-Tibial	X287	0.661335	3.80265e-6	ADI1	Purpura and other hemorrhagic conditions	1.06247e-1	895	5981
+Colon-Transverse	X253	0.566205	3.80290e-6	DCTN5	Disorders of the pituitary gland and its hypothalamic control	4.79299e-1	149	7558
+Brain-Nucleusaccumbens-basalganglia	X586.3	3.0218	3.86014e-6	ADAMTS13	Vascular disorders of kidney/hypertrophy	1.13250e-1	20	5644
+Pancreas	X694	4.18437	3.89679e-6	CARHSP1	Dyschromia and Vitiligo	3.73520e-2	96	7590
+Pituitary	X512	0.476806	3.92243e-6	DNA2	Other symptoms of respiratory system	6.66219e-2	4237	3702
+Pituitary	X252.1	1.20871	3.94168e-6	CLDN15	Hyperparathyroidism	2.97528e-1	121	7558
+Ovary	X580	7.52843	4.08885e-6	DCDC2B	Nephritis; nephrosis; renal sclerosis	5.40448e-3	466	5644
+Testis	X281	1.32821	4.28214e-6	CDH13	Other deficiency anemia	7.87696e-2	188	4684
+Brain-Cerebellum	X353.1	-1.85105	4.39887e-6	AGTPBP1	Nerve plexus lesions	1.09115e-1	20	7504
+Artery-Tibial	X362.9	2.84027	4.40216e-6	AKT1	Retinal edema	7.83105e-3	48	7724
+Pancreas	X694.2	4.17692	4.51279e-6	CARHSP1	Other dyschromia	3.73520e-2	95	7590
+Ovary	X41.11	-3.65221	4.59829e-6	DMTN	Methicillin sensitive Staphylococcus aureus	3.39824e-2	371	6607
+Esophagus-Muscularis	X577.3	-14.7267	4.61563e-6	DISP1	Cyst and pseudocyst of pancreas	2.96403e-3	70	8624
+Ovary	X587	7.08764	4.67678e-6	DCDC2B	Kidney replaced by transpant	5.40448e-3	672	5644
+Ovary	X710	1.05189	4.69236e-6	AKR1C3	Osteomyelitis, periostitis, and other infections involving bone	9.56089e-2	357	7311
+Colon-Transverse	X386.9	1.25278	4.70162e-6	CIAPIN1	Dizziness and giddiness (Light-headedness and vertigo)	2.78440e-2	740	7565
+SmallIntestine-TerminalIleum	X593	-0.720565	4.71730e-6	CATSPERB	Hematuria	5.44772e-2	664	5793
+Skin-SunExposed-Lowerleg	X245.2	2.88023	4.73184e-6	BTN3A1	Chronic thyroiditis	6.85601e-2	44	7001
+Brain-Putamen-basalganglia	X571.6	0.732399	4.74029e-6	ABHD17B	Primary biliary cirrhosis	5.69730e-2	31	6421
+Brain-CerebellarHemisphere	X514.2	1.47355	4.76004e-6	C15orf65	Solitary pulmonary nodule	1.93847e-1	43	7886
+Esophagus-Muscularis	X324	5.3224	4.79248e-6	CISH	Other CNS infection and poliomyelitis	4.85159e-3	61	8848
+Esophagus-GastroesophagealJunction	X374.6	6.62163	4.81921e-6	CDC42	Dermatochalasis	1.60360e-2	94	7798
+Colon-Sigmoid	X747.13	-16.1037	4.86729e-6	BOP1	Congenital anomalies of great vessels	1.25003e-3	58	8634
+Breast-MammaryTissue	X574.2	13.8985	4.89103e-6	B4GALT5	Calculus of bile duct	7.41800e-3	67	8056
+Esophagus-GastroesophagealJunction	X594.8	3.67745	4.99288e-6	ALG12	Renal colic	3.14963e-2	24	8065
+Thyroid	X457.2	1.6297	5.06057e-6	AMPH	Encounter for long-term (current) use of antiplatelets/antithrombotics	1.77375e-1	40	6144
+Cells-Transformedfibroblasts	X540.11	10.129	5.06588e-6	CABLES2	Acute appendicitis	2.41522e-2	38	9038
+Liver	X876	2.86373	5.07673e-6	ATXN7L3	Posttraumatic wound infection not elsewhere classified	6.66545e-2	43	7534
+Cells-EBV-transformedlymphocytes	X612.2	0.421757	5.15486e-6	C2orf82	Hypertrophy of breast (Gynecomastia)	4.58911e-2	50	8140
+Esophagus-Mucosa	X245.2	-11.2363	5.28524e-6	C11orf65	Chronic thyroiditis	2.44647e-2	44	7001
+Brain-Cortex	X772.1	-5.79417	5.32447e-6	AVP	Muscular wasting and disuse atrophy	2.98539e-3	33	7828
+Artery-Tibial	X473.3	1.23994	5.32548e-6	CAST	Paralysis/spasm of vocal cords or larynx	2.58517e-1	56	6193
+Skin-NotSunExposed-Suprapubic	X446.9	3.75109	5.41414e-6	ANK3	Arteritis NOS	2.83607e-3	48	6676
+Esophagus-Mucosa	X496.2	0.869934	5.44318e-6	CDO1	Chronic bronchitis	1.30177e-1	314	6820
+Colon-Transverse	X327.1	14.8677	5.49671e-6	C15orf65	Hypersomnia	1.46039e-2	33	6920
+Testis	X874	-3.29255	5.53167e-6	ATG14	Complication of amputation stump	8.19839e-2	45	7534
+Skin-SunExposed-Lowerleg	X536.3	-2.88058	5.53202e-6	CIDEC	Gastroparesis	8.91628e-3	109	7579
+Brain-Caudate-basalganglia	X727.7	0.0430937	5.58192e-6	BTN2A1	Contracture of tendon (sheath)	1.14091e-1	30	6730
+Artery-Aorta	X290.13	6.03103	5.61633e-6	CIT	Senile dementia	2.11111e-3	85	6654
+Cells-Transformedfibroblasts	X81.1	5.75353	5.62622e-6	ATP5G3	Graft-versus-host disease	2.00789e-2	35	7508
+Brain-Cerebellum	X642	-0.885273	5.74415e-6	ADIPOR2	Hypertension complicating pregnancy, childbirth, and the puerperium	6.62476e-2	61	9047
+Artery-Aorta	X874	-26.4777	5.83574e-6	ATG14	Complication of amputation stump	1.92686e-3	45	7534
+Thyroid	X245.21	2.34287	5.90798e-6	BTN3A1	Chronic lymphocytic thyroiditis	5.75258e-2	42	7001
+Skin-SunExposed-Lowerleg	X681.6	-3.18805	5.99849e-6	ADNP2	Cellulitis and abscess of foot, toe	1.32283e-2	125	6905
+Heart-LeftVentricle	X540.11	2.33917	6.03390e-6	CABLES2	Acute appendicitis	2.33179e-1	38	9038
+Esophagus-GastroesophagealJunction	X153.3	-19.3277	6.04099e-6	ADAMTS4	Malignant neoplasm of rectum, rectosigmoid junction, and anus	1.27647e-2	143	7198
+Nerve-Tibial	X370.31	-3.25336	6.15580e-6	CHFR	Keratoconjunctivitis sicca	1.12463e-2	101	7798
+Brain-Putamen-basalganglia	X252.1	2.14366	6.18870e-6	CLDN15	Hyperparathyroidism	5.56302e-2	121	7558
+Brain-Cortex	X252	1.47725	6.28105e-6	CLDN15	Disorders of parathyroid gland	5.41189e-2	141	7558
+Lung	X245.21	3.68304	6.38248e-6	BTN3A1	Chronic lymphocytic thyroiditis	2.36513e-2	42	7001
+Pancreas	X269	-3.5527	6.38594e-6	B4GALT1	Proteinuria	2.67763e-2	275	8239
+Nerve-Tibial	X245.21	1.28442	6.39688e-6	BTN3A1	Chronic lymphocytic thyroiditis	2.02655e-1	42	7001
+Heart-LeftVentricle	X454	1.11396	6.42176e-6	CCDC8	Varicose veins	9.11756e-2	119	6144
+Colon-Transverse	X245.2	1.76443	6.44965e-6	BTN3A1	Chronic thyroiditis	1.36322e-1	44	7001
+Lung	X427.6	-4.90955	6.45947e-6	C8orf31	Premature beats	5.44114e-3	157	4456
+Thyroid	X686.1	-3.24765	6.48506e-6	BTN2A2	Carbuncle and furuncle	1.37448e-2	42	6905
+Ovary	X735.23	-13.995	6.54494e-6	B3GALT5	Hallux rigidus	5.40408e-3	21	7256
+AdrenalGland	X960.2	0.882935	6.58454e-6	CNOT8	Allergy/adverse effect of penicillin	7.36784e-2	43	6561
+Pituitary	X251	1.52932	6.66573e-6	CEP170B	Other disorders of pancreatic internal secretion	4.88321e-2	90	7558
+Skin-SunExposed-Lowerleg	X401.2	-0.421228	6.66987e-6	CAST	Hypertensive heart and/or renal disease	1.24536e-1	1448	3058
+Muscle-Skeletal	X395.6	-2.40733	6.69744e-6	DDX56	Heart valve replaced	1.30414e-2	294	7079
+Artery-Tibial	X245.21	2.79264	6.71433e-6	BTN3A1	Chronic lymphocytic thyroiditis	2.38201e-2	42	7001
+Brain-Cerebellum	X300.4	0.664257	6.75510e-6	CYP4V2	Dysthymic disorder	2.87790e-1	315	5392
+Esophagus-Muscularis	X817	1.78235	6.86412e-6	CSF2RB	Concussion	7.56896e-2	29	8639
+Cells-EBV-transformedlymphocytes	X567	24.6394	6.90329e-6	DAAM1	Peritonitis and retroperitoneal infections	5.86810e-2	237	7242
+AdrenalGland	X337	-1.47837	6.91581e-6	COMMD4	Disorders of the autonomic nervous system	5.92265e-2	90	6544
+Adipose-Subcutaneous	X274.21	4.86687	6.94887e-6	AICDA	Chondrocalcinosis	2.01319e-2	29	8288
+Adipose-Subcutaneous	X274.2	4.86687	6.94887e-6	AICDA	Crystal arthropathies	2.01319e-2	29	8288
+AdrenalGland	X285.22	0.859451	6.97256e-6	DCDC2B	Anemia in neoplastic disease	2.74055e-2	421	4684
+Esophagus-Muscularis	X592.11	3.72822	6.97864e-6	ACP2	Acute cystitis	4.44481e-2	21	5793
+Muscle-Skeletal	X81.1	2.94655	7.03994e-6	ATP5G3	Graft-versus-host disease	8.90697e-2	35	7508
+Brain-Cortex	X252.1	1.56679	7.05974e-6	CLDN15	Hyperparathyroidism	5.41189e-2	121	7558
+Skin-SunExposed-Lowerleg	X476	0.541628	7.08419e-6	CABLES2	Allergic rhinitis	1.24450e-1	869	6193
+Pituitary	X196	3.45618	7.14135e-6	CAST	Radiotherapy	2.91640e-3	179	6274
+Heart-LeftVentricle	X191	-3.17588	7.18603e-6	DIDO1	Malignant and unknown neoplasms of brain and nervous system	5.98394e-3	174	8655
+Thyroid	X817	-5.40783	7.20538e-6	CTDSPL2	Concussion	9.52661e-3	29	8639
+Cells-EBV-transformedlymphocytes	X574.3	12.4384	7.30300e-6	DEFB119	Cholecystitis without cholelithiasis	1.04053e-1	139	8056
+Pancreas	X240	-2.19229	7.33490e-6	CCDC150	Simple and unspecified goiter	6.87434e-2	68	7001
+Brain-Anteriorcingulatecortex-BA24	X592.11	2.24523	7.39407e-6	APOBEC3G	Acute cystitis	2.29186e-2	21	5793
+Testis	X758.1	-38.1151	7.40491e-6	BIRC7	Chromosomal anomalies	2.06562e-2	21	8947
+Artery-Coronary	X327.1	3.23546	7.47206e-6	C15orf65	Hypersomnia	8.87953e-3	33	6920
+Adipose-Subcutaneous	X246.7	6.17908	7.55986e-6	ADAMTS4	Abnormal results of function study of thyroid	5.58720e-3	28	7001
+SmallIntestine-TerminalIleum	X809	-1.65949	7.57926e-6	A3GALT2	Fracture of unspecified bones	5.04052e-2	415	7283
+Brain-FrontalCortex-BA9	X245	1.16782	7.72335e-6	COL28A1	Thyroiditis	2.90241e-1	59	7001
+Adipose-Subcutaneous	X726.3	36.7168	7.73498e-6	BMPR2	Bursitis	4.22855e-3	119	6730
+Testis	X580.31	-1.74785	7.74183e-6	DNAH1	Nephritis and nephropathy in diseases classified elsewhere	2.90608e-2	157	5644
+Brain-Nucleusaccumbens-basalganglia	X772	-4.8194	7.80197e-6	CD59	Symptoms of the muscles	2.93518e-2	51	7828
+Brain-Anteriorcingulatecortex-BA24	X519.1	-19.8073	7.81073e-6	ADAP1	Tracheostomy complications	3.67409e-2	25	8048
+Heart-AtrialAppendage	X110.1	-1.12256	7.83791e-6	BTNL8	Dermatophytosis	6.98292e-2	380	7391
+Cells-EBV-transformedlymphocytes	X612	0.392297	7.83795e-6	C2orf82	Breast conditions, congenital or relating to hormones	4.58911e-2	62	8140
+Heart-AtrialAppendage	X245.2	1.74091	7.90143e-6	BTN3A1	Chronic thyroiditis	1.24337e-1	44	7001
+Breast-MammaryTissue	X512	0.267632	7.96291e-6	DNA2	Other symptoms of respiratory system	3.08085e-1	4237	3702
+Ovary	X710.19	1.17273	7.97143e-6	AKR1C3	Unspecified osteomyelitis	9.56089e-2	262	7311
+Brain-Cerebellum	X252.1	0.743197	7.99197e-6	CLDN15	Hyperparathyroidism	3.60853e-1	121	7558
+Artery-Coronary	X741.3	-3.32481	7.99706e-6	CTCF	Difficulty in walking	1.38878e-2	166	7526
+Muscle-Skeletal	X252.1	1.80588	8.05215e-6	CLDN15	Hyperparathyroidism	8.32052e-2	121	7558
+Skin-SunExposed-Lowerleg	X194	-2.39388	8.14222e-6	ABI3BP	Cancer of other endocrine glands	5.82856e-2	31	8718
+Colon-Transverse	X593.2	-4.43152	8.23120e-6	CCDC113	Microscopic hematuria	6.67226e-3	60	5793
+Colon-Sigmoid	X381.11	2.55972	8.24029e-6	CENPF	Suppurative and unspecified otitis media	3.94019e-3	177	8088
+Nerve-Tibial	X287.3	0.932614	8.25901e-6	ADI1	Thrombocytopenia	1.25114e-1	847	5981
+Artery-Coronary	X686.1	-4.15213	8.34309e-6	BTN2A2	Carbuncle and furuncle	6.57226e-3	42	6905
+Artery-Tibial	X245.2	2.71094	8.44985e-6	BTN3A1	Chronic thyroiditis	2.38201e-2	44	7001
+Skin-NotSunExposed-Suprapubic	X627.3	-3.60408	8.44991e-6	DGKG	Postmenopausal atrophic vaginitis	1.12615e-3	130	7657
+Artery-Tibial	X327.41	3.24469	8.53820e-6	AKR1C3	Organic or persistent insomnia	6.22829e-2	32	6920
+Lung	X577.1	-0.64847	8.55413e-6	ANKRD53	Acute pancreatitis	1.29008e-2	151	8624
+Brain-Caudate-basalganglia	X110.12	2.38233	8.60419e-6	CHFR	Althete's foot	7.72609e-2	50	7391
+Brain-Putamen-basalganglia	X292.2	-1.28432	8.64612e-6	CSF2RB	Mild cognitive impairment	6.11883e-2	21	6654
+Pancreas	X426.23	-2.93891	8.67905e-6	C1orf111	Second degree AV block	2.55318e-2	55	4456
+Spleen	X253.2	-21.8467	8.69041e-6	ARHGAP22	Pituitary hypofunction	6.82287e-3	45	7558
+Ovary	X703.1	1.11006	8.69496e-6	CRIP3	Ingrowing nail	4.47132e-2	70	8443
+Brain-FrontalCortex-BA9	X573.4	-10.3866	8.70824e-6	CLP1	Acute and subacute necrosis of liver	1.20660e-2	48	6421
+Adipose-Subcutaneous	X473.3	1.09918	8.71703e-6	CAST	Paralysis/spasm of vocal cords or larynx	3.98264e-1	56	6193
+Brain-Nucleusaccumbens-basalganglia	X711	0.990811	8.75219e-6	ATP5G3	Arthropathy associated with infections	3.38053e-2	108	7311
+Colon-Sigmoid	X512	0.206021	8.79509e-6	DNA2	Other symptoms of respiratory system	2.34598e-1	4237	3702
+Skin-SunExposed-Lowerleg	X429.2	-5.34568	8.84780e-6	ATAT1	Abnormal function study of cardiovascular system	1.68572e-3	141	6286
+Artery-Coronary	X289.9	4.17583	8.87031e-6	ALS2CL	Abnormality of red blood cells	5.30969e-2	20	5838
+Ovary	X860	-3.91003	9.06263e-6	CDO1	Bone marrow or stem cell transplant	3.10191e-2	198	8873
+Muscle-Skeletal	X252	1.6897	9.13199e-6	CLDN15	Disorders of parathyroid gland	8.32052e-2	141	7558
+Stomach	X300.12	-2.07486	9.16640e-6	ADAMTS4	Agorophobia, social phobia, and panic disorder	1.09886e-2	87	5392
+Colon-Sigmoid	X379.3	-3.76283	9.16696e-6	CEP41	Aphakia and other disorders of lens	3.50409e-2	20	7801
+Artery-Tibial	X274.21	-9.57307	9.17095e-6	BIRC7	Chondrocalcinosis	1.25804e-3	29	8288
+Artery-Tibial	X274.2	-9.57307	9.17095e-6	BIRC7	Crystal arthropathies	1.25804e-3	29	8288
+Heart-LeftVentricle	X580.4	-1.55345	9.28725e-6	BAIAP3	Renal sclerosis, NOS	2.33855e-2	52	5644
+Brain-Putamen-basalganglia	X250.15	-6.81587	9.28997e-6	DALRD3	Diabetes type 1 with peripheral circulatory disorders	3.61448e-3	37	4936
+Esophagus-GastroesophagealJunction	X264.2	5.46183	9.32340e-6	ANKZF1	Failure to thrive (childhood)	1.70406e-3	73	6138
+Brain-Hippocampus	X536.3	-47.6356	9.46792e-6	BAG5	Gastroparesis	2.02891e-2	109	7579
+Brain-Caudate-basalganglia	X586.3	5.99249	9.47741e-6	ADAMTS13	Vascular disorders of kidney/hypertrophy	6.28253e-2	20	5644
+Esophagus-GastroesophagealJunction	X593.1	-2.9453	9.47818e-6	COMMD4	Gross hematuria	2.53191e-3	59	5793
+Brain-Cerebellum	X512	0.201741	9.53173e-6	DNA2	Other symptoms of respiratory system	5.43766e-1	4237	3702
+Thyroid	X747.13	8.61994	9.53741e-6	ADAP2	Congenital anomalies of great vessels	6.93463e-3	58	8634
+Ovary	X264	-1.88353	9.74632e-6	CCDC8	Lack of normal physiological development	4.18670e-3	147	6138
+Artery-Coronary	X711.1	3.3898	9.77361e-6	CABP1	Pyogenic arthritis	1.95038e-3	79	7311
+Artery-Tibial	X579.8	-3.74243	9.90183e-6	C2orf82	Nonspecific abnormal findings in stool contents	2.60596e-2	63	6905
+Lung	X476	0.524545	9.93336e-6	CABLES2	Allergic rhinitis	1.64684e-1	869	6193
+Artery-Coronary	X871.3	4.81716e15	0.00000e+0	HK1	Open wound of foot except toe(s) alone	7.68372e-3	38	7534
+Artery-Coronary	X375	1.61847e16	0.00000e+0	HK1	Disorders of lacrimal system	7.68372e-3	32	7801
+Artery-Coronary	X323	1.2673e16	0.00000e+0	HK1	Encephalitis	7.68372e-3	30	8848
+Artery-Coronary	X526.4	8.3128e15	0.00000e+0	HK1	Temporomandibular joint disorders	7.68372e-3	44	8243
+Artery-Coronary	X731	8.29249e15	0.00000e+0	HK1	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	7.68372e-3	23	8372
+Artery-Coronary	X475.9	3.72963e15	0.00000e+0	HK1	Postnasal drip	7.68372e-3	37	6193
+Artery-Coronary	X530.6	2.09762e16	0.00000e+0	HK1	Diverticulum of esophagus, acquired	7.68372e-3	21	5130
+Artery-Coronary	X323.8	6.90081e15	0.00000e+0	HK1	Encephalitis, non-infectious	7.68372e-3	22	8848
+Artery-Coronary	X297.1	1.51428e16	0.00000e+0	HK1	Suicidal ideation	7.68372e-3	44	5392
+Artery-Coronary	X681.1	6.32492e15	0.00000e+0	HK1	Cellulitis and abscess of fingers/toes	7.68372e-3	155	6905
+Artery-Coronary	X332	7.60114e15	0.00000e+0	HK1	Parkinson's disease	7.68372e-3	80	6544
+Artery-Coronary	X71.1	-52.2913	6.09527e-9	LOX	HIV infection, symptomatic	1.22832e-1	46	7233
+Artery-Coronary	X71	-52.0737	6.92928e-9	LOX	Human immunodeficiency virus [HIV] disease	1.22832e-1	47	7233
+Brain-Cerebellum	X960	0.346542	1.33667e-8	GALNT9	Poisoning by antibiotics	4.27344e-2	105	6561
+Ovary	X117.4	0.278637	3.22311e-8	LY75	Aspergillosis	8.52800e-2	32	7391
+Brain-Anteriorcingulatecortex-BA24	X636.1	2.02164	3.66586e-8	LEMD1	Threatened premature labor	1.51195e-2	37	8943
+Brain-CerebellarHemisphere	X451	0.749994	4.07716e-8	MUC4	Phlebitis and thrombophlebitis	3.17131e-1	170	6144
+Heart-AtrialAppendage	X117.4	0.258456	4.12562e-8	LY75	Aspergillosis	2.99549e-1	32	7391
+Ovary	X579.8	4.32375	8.66749e-8	LRRN1	Nonspecific abnormal findings in stool contents	4.85516e-3	63	6905
+Brain-Anteriorcingulatecortex-BA24	X594.2	-15.7456	1.17333e-7	EIF3J	Calculus of lower urinary tract	2.49518e-3	31	8065
+Brain-Hippocampus	X227.1	0.344625	1.36501e-7	HSF2BP	Benign neoplasm of adrenal gland	3.19904e-2	22	8574
+Brain-CerebellarHemisphere	X81.12	-11.2638	1.41344e-7	FOXJ2	Chronic graft-versus-host disease	9.77492e-2	24	7508
+Brain-CerebellarHemisphere	X603	-1.34055	1.97788e-7	MYOM2	Other disorders of testis	4.03018e-1	56	8178
+Breast-MammaryTissue	X781.2	-4.2653	2.36532e-7	GRB7	Abnormal posture	1.93948e-2	45	8914
+Lung	X250.41	28.4574	2.47434e-7	HIST1H1E	Impaired fasting glucose	3.09977e-3	83	4936
+Artery-Tibial	X70.9	-5.6888	2.72267e-7	MARCH6	Hepatitis NOS	1.53690e-2	85	7233
+Artery-Tibial	X366	-1.97739	3.44359e-7	NAA20	Cataract	7.80111e-3	965	7805
+Breast-MammaryTissue	X599.9	2.69149	4.02496e-7	ENO3	Other abnormality of urination	2.21266e-2	249	6083
+Ovary	X947	-1.49716	4.07352e-7	GPR89B	Urticaria	1.02403e-1	65	7230
+Pituitary	X442.3	38.7211	4.67037e-7	DPP4	Aneurysm of artery of lower extremity	3.42733e-3	34	6676
+Cells-Transformedfibroblasts	X250.21	5.26438	5.02497e-7	LCN15	Type 2 diabetes with ketoacidosis	7.67473e-3	31	4936
+Artery-Coronary	X960.2	-6.38601	5.38165e-7	DYX1C1	Allergy/adverse effect of penicillin	2.69877e-3	43	6561
+Pancreas	X589	2.24565	5.63391e-7	NARS2	Abnormal results of function study of kidney	7.78956e-2	50	5644
+Liver	X333.2	0.169133	5.97152e-7	KLF3	Myoclonus	6.29967e-2	41	6544
+Nerve-Tibial	X427.8	-2.10238	6.57217e-7	MTHFR	Sinoatrial node dysfunction (Bradycardia)	2.71684e-2	363	4456
+Brain-Putamen-basalganglia	X297.2	55.0477	6.70151e-7	HORMAD1	Suicide or self-inflicted injury	5.64537e-2	40	5392
+Pituitary	X189.1	0.184619	6.80209e-7	LRRC34	Cancer of kidney and renal pelvis	2.48135e-2	267	8503
+Brain-Cortex	X246.7	-3.45597	7.00441e-7	LARS	Abnormal results of function study of thyroid	1.44893e-3	28	7001
+Artery-Tibial	X366.2	-2.04662	7.85262e-7	NAA20	Senile cataract	7.80111e-3	824	7805
+Lung	X457	1.35292	7.90159e-7	MAP3K11	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	8.50400e-2	394	6144
+Brain-Cerebellum	X81.12	-7.64046	7.93441e-7	FOLH1	Chronic graft-versus-host disease	5.21016e-3	24	7508
+Brain-Nucleusaccumbens-basalganglia	X112.3	0.862808	8.01664e-7	GLTSCR2	Candidiasis of skin and nails	8.86241e-2	47	7391
+Brain-Anteriorcingulatecortex-BA24	X535.9	0.14485	8.19036e-7	FKRP	Gastritis and duodenitis, NOS	7.84655e-2	82	7579
+Heart-AtrialAppendage	X568	-1.30518	8.63020e-7	MDGA1	Other disorders of peritoneum	1.98946e-1	181	7242
+Pituitary	X750	-1.56732	8.70844e-7	DPH6	Digestive congenital anomalies	1.02551e-1	45	8409
+Breast-MammaryTissue	X740.1	7.14346	8.78184e-7	ERCC5	Osteoarthritis; localized	2.50988e-2	684	6692
+Brain-Hippocampus	X527	-4.10328	8.89296e-7	ERCC5	Diseases of the salivary glands	3.02530e-2	72	8257
+Brain-CerebellarHemisphere	X497	0.0273809	9.48926e-7	JUP	Bronchitis	1.82017e-1	97	6820
+Breast-MammaryTissue	X297.1	-1.46466	1.02423e-6	HMHA1	Suicidal ideation	5.10122e-3	44	5392
+Testis	X200.1	24.3444	1.05481e-6	KCNF1	Polycythemia vera	4.52123e-3	46	7977
+Nerve-Tibial	X302	2.30634	1.09645e-6	FAM227B	Sexual and gender identity disorders	8.36236e-2	25	5392
+Muscle-Skeletal	X444.1	5.96415	1.10599e-6	EVL	Arterial embolism and thrombosis of lower extremity artery	4.18021e-3	45	6676
+Heart-LeftVentricle	X577.1	-2.88637	1.12407e-6	ENPP4	Acute pancreatitis	2.14779e-2	151	8624
+Brain-Hippocampus	X426.23	3.79635	1.12691e-6	GLYATL2	Second degree AV block	7.67765e-3	55	4456
+Esophagus-GastroesophagealJunction	X276.13	2.05691	1.20035e-6	MRPL2	Hyperpotassemia	5.99557e-3	651	4600
+Brain-Hypothalamus	X385.3	-0.333493	1.24187e-6	HEATR4	Cholesteatoma	1.80644e-1	32	8088
+Muscle-Skeletal	X741.3	-2.68009	1.33466e-6	IRAK2	Difficulty in walking	1.27891e-2	166	7526
+Ovary	X855	3.05838	1.35683e-6	MDC1	Complication of nervous system device, implant, and graft	1.14446e-2	81	6685
+Cells-EBV-transformedlymphocytes	X394.4	2.67508	1.36537e-6	MRPL2	Acute rheumatic heart disease	3.66006e-3	21	7079
+Muscle-Skeletal	X870.3	3.59806	1.40706e-6	MGAT1	Other open wound of head and face	1.12379e-2	95	7534
+Testis	X574.3	-2.28315	1.42912e-6	JUP	Cholecystitis without cholelithiasis	2.81221e-2	139	8056
+Adipose-Subcutaneous	X364.1	4.34635	1.45303e-6	GSTK1	Corneal opacity	3.25185e-2	32	7724
+Heart-LeftVentricle	X710	1.22387	1.45813e-6	GNAO1	Osteomyelitis, periostitis, and other infections involving bone	7.56868e-2	357	7311
+Brain-Nucleusaccumbens-basalganglia	X560	-0.505574	1.47110e-6	GALNT9	Intestinal obstruction without mention of hernia	9.37196e-2	544	5956
+Cells-EBV-transformedlymphocytes	X429	-1.42228	1.52124e-6	FBXL18	Ill-defined descriptions and complications of heart disease	1.87208e-3	461	6286
+Testis	X524	-45.3202	1.54509e-6	FGR	Dentofacial anomalies, including malocclusion	7.35108e-3	28	8243
+Colon-Sigmoid	X185	1.04191	1.56187e-6	IFITM3	Cancer of prostate	2.39917e-2	398	7682
+Brain-Nucleusaccumbens-basalganglia	X530.6	-20.3812	1.58228e-6	MEDAG	Diverticulum of esophagus, acquired	4.21448e-3	21	5130
+Brain-Hippocampus	X290.2	-11.5876	1.60606e-6	HEBP2	Delirium due to conditions classified elsewhere	1.16932e-1	184	6654
+Colon-Sigmoid	X275.53	2.747	1.62831e-6	KIAA0513	Disorders of phosphorus metabolism	1.22990e-2	293	7588
+Artery-Coronary	X681.3	9.34041	1.66086e-6	MTPAP	Cellulitis and abscess of arm/hand	3.74321e-2	171	6905
+Artery-Aorta	X302	3.74669	1.66741e-6	FAM227B	Sexual and gender identity disorders	3.60774e-2	25	5392
+Cells-EBV-transformedlymphocytes	X334	1.48467	1.72719e-6	HSPA1L	Degenerative disease of the spinal cord	1.91702e-2	102	6544
+Artery-Tibial	X803.1	-4.11568	1.74288e-6	HOXB9	Fracture of humerus	1.67640e-2	146	7283
+Brain-Hippocampus	X519.2	0.326144	1.76982e-6	HSF2BP	Respiratory complications	3.19904e-2	38	8048
+Nerve-Tibial	X695.8	1.10148	1.83223e-6	LRP5L	Other specified erythematous conditions	2.18555e-1	48	7590
+Pituitary	X560.2	3.16632	1.88039e-6	HAVCR1	Impaction of intestine	4.61012e-2	28	5956
+Breast-MammaryTissue	X81.12	6.99898	1.88740e-6	MTCH2	Chronic graft-versus-host disease	4.22394e-3	24	7508
+Ovary	X136	0.04483	1.89733e-6	IL1A	Other infectious and parasitic diseases	3.82246e-3	70	8712
+Brain-CerebellarHemisphere	X362.6	2.88429	1.96809e-6	LTA	Peripheral retinal degenerations	9.54921e-2	27	7724
+Pancreas	X599.1	13.6432	2.02375e-6	F2	Urinary obstruction	1.94437e-2	107	6083
+Brain-Putamen-basalganglia	X751.1	-0.107128	2.02785e-6	GNLY	Congenital anomalies of genital organs	6.36247e-3	35	8409
+Nerve-Tibial	X215	3.41715	2.04488e-6	METAP1	Other benign neoplasm of connective and other soft tissue	1.33877e-2	28	8688
+Brain-Cerebellum	X876	0.0603692	2.05355e-6	MRO	Posttraumatic wound infection not elsewhere classified	7.88448e-2	43	7534
+Esophagus-GastroesophagealJunction	X771.2	-0.305838	2.10181e-6	GPR35	Cramp of limb	3.54991e-1	50	7238
+Brain-Hippocampus	X728	-3.26925	2.13745e-6	MAPK8IP2	Disorders of muscle, ligament, and fascia	1.05182e-1	27	6730
+Heart-AtrialAppendage	X524	7.06413	2.15618e-6	MUT	Dentofacial anomalies, including malocclusion	1.68430e-3	28	8243
+Brain-Cerebellum	X804	2.02547	2.26560e-6	LIPJ	Fracture of hand or wrist	1.89550e-2	166	7283
+Pancreas	X355.1	2.18028	2.27539e-6	ICAM2	Chronic pain syndrome	1.64350e-2	91	7504
+Muscle-Skeletal	X242	-2.87732	2.28197e-6	DTWD1	Thyrotoxicosis with or without goiter	4.55737e-2	152	7001
+Cells-Transformedfibroblasts	X523.1	10.4989	2.29207e-6	FFAR4	Gingivitis	6.60430e-3	73	8243
+Esophagus-Muscularis	X302	-3.70598	2.32890e-6	LRRC34	Sexual and gender identity disorders	1.54390e-1	25	5392
+Nerve-Tibial	X618.2	1.25541	2.33284e-6	MAP1A	Uterine/Uterovaginal prolapse	9.92558e-2	52	8882
+Skin-SunExposed-Lowerleg	X366	0.974085	2.35918e-6	IQCE	Cataract	3.77259e-2	965	7805
+Breast-MammaryTissue	X740.11	7.75455	2.38180e-6	ERCC5	Osteoarthrosis, localized, primary	2.50988e-2	501	6692
+Colon-Transverse	X78	-3.02968	2.46289e-6	FMO2	Viral warts & HPV	2.86879e-2	201	7233
+Pancreas	X701.1	-37.4091	2.48411e-6	JMY	Keratoderma, acquired	1.86367e-2	29	7128
+Cells-EBV-transformedlymphocytes	X317.1	1.2107	2.51072e-6	MUC15	Alcoholism	9.57459e-3	184	7008
+Brain-Cortex	X442.3	10.1671	2.58398e-6	DPP4	Aneurysm of artery of lower extremity	2.85306e-3	34	6676
+Thyroid	X250.14	20.3507	2.60041e-6	LTA	Type 1 diabetes with neurological manifestations	1.10225e-2	168	4936
+Esophagus-GastroesophagealJunction	X187	5.78133	2.66272e-6	HOXB9	Cancer of other male genital organs	1.35838e-3	34	7682
+Esophagus-GastroesophagealJunction	X149.9	8.02775	2.74872e-6	FXR2	Cancer of of nasal cavities	1.21492e-3	28	8031
+Colon-Transverse	X525	-3.71466	2.81496e-6	FMO2	Other diseases of the teeth and supporting structures	2.86879e-2	78	8243
+Artery-Aorta	X571.51	10.8852	2.88195e-6	METTL14	Cirrhosis of liver without mention of alcohol	5.81387e-3	281	6421
+Brain-Hippocampus	X722.7	4.77077	3.00293e-6	GLYATL2	Intervertebral disc disorder with myelopathy	7.67765e-3	31	6852
+Cells-Transformedfibroblasts	X526.41	-14.613	3.08073e-6	FOXN3	Temporomandibular joint disorder, unspecified	1.45565e-3	22	8243
+Cells-EBV-transformedlymphocytes	X526	38.2039	3.25757e-6	FAM101A	Diseases of the jaws	1.60911e-3	133	8243
+Liver	X457.2	0.48219	3.29466e-6	KCTD7	Encounter for long-term (current) use of antiplatelets/antithrombotics	7.26123e-3	40	6144
+Testis	X245.21	-15.9778	3.31729e-6	HIST1H1E	Chronic lymphocytic thyroiditis	2.32314e-3	42	7001
+Brain-FrontalCortex-BA9	X184.1	2.93718	3.33920e-6	DYRK1A	Malignant neoplasm of ovary and other uterine adnexa	1.54392e-2	103	7989
+Cells-EBV-transformedlymphocytes	X471	72.0861	3.35128e-6	FPGS	Nasal polyps	1.95402e-2	49	6193
+Skin-SunExposed-Lowerleg	X368.2	1.81557	3.35609e-6	FAM101B	Diplopia and disorders of binocular vision	7.72453e-2	103	8248
+Liver	X735.3	0.149483	3.37292e-6	KLF3	Hallux valgus (Bunion)	6.29967e-2	73	7256
+Colon-Transverse	X525.1	-4.24272	3.40286e-6	FMO2	Loss of teeth or edentulism	2.86879e-2	42	8243
+Muscle-Skeletal	X353.1	10.6246	3.40922e-6	KIAA1522	Nerve plexus lesions	1.08094e-3	20	7504
+Heart-AtrialAppendage	X524.3	7.05741	3.41997e-6	MUT	Anomalies of tooth position/malocclusion	1.68430e-3	27	8243
+Cells-Transformedfibroblasts	X155.1	-5.53907	3.44673e-6	MTIF3	Malignant neoplasm of liver, primary	9.62447e-3	90	8073
+Brain-CerebellarHemisphere	X603.1	-1.35167	3.49422e-6	MYOM2	Hydrocele	4.03018e-1	43	8178
+Cells-Transformedfibroblasts	X377.1	40.3958	3.49944e-6	IFIH1	Optic atrophy	1.25896e-2	28	7801
+Heart-LeftVentricle	X305.2	-15.5531	3.52402e-6	FMO2	Eating disorder	5.20077e-3	26	5392
+Testis	X245.2	-15.6149	3.55552e-6	HIST1H1E	Chronic thyroiditis	2.32314e-3	44	7001
+Brain-Hippocampus	X250.21	-3.10715	3.62272e-6	MAPK8IP2	Type 2 diabetes with ketoacidosis	1.05182e-1	31	4936
+Lung	X568	-0.732305	3.64148e-6	MDGA1	Other disorders of peritoneum	3.15304e-1	181	7242
+Adipose-Subcutaneous	X349	-1.76739	3.65397e-6	MARCO	Other and unspecified disorders of the nervous system	1.04403e-1	66	6544
+Brain-Nucleusaccumbens-basalganglia	X425.1	1.45357	3.65508e-6	METTL14	Primary/intrinsic cardiomyopathies	4.29610e-3	593	7787
+Ovary	X627.2	0.619378	3.66756e-6	MED20	Symptomatic menopause	2.35328e-2	383	7657
+Artery-Tibial	X696.41	2.08155	3.69861e-6	MACROD2	Psoriasis vulgaris	4.59327e-2	106	7172
+Brain-Hypothalamus	X385	-0.322074	3.76758e-6	HEATR4	Other disorders of middle ear and mastoid	1.80644e-1	38	8088
+Skin-SunExposed-Lowerleg	X366.2	1.02255	3.79315e-6	IQCE	Senile cataract	3.77259e-2	824	7805
+SmallIntestine-TerminalIleum	X977	-6.69498	3.87510e-6	GPR156	Personal history of allergy to medicinal agents	6.80785e-3	30	6561
+Artery-Coronary	X250.14	3.4507	3.89246e-6	LTB	Type 1 diabetes with neurological manifestations	1.18646e-2	168	4936
+Brain-CerebellarHemisphere	X81.1	-9.50575	3.94672e-6	FOXJ2	Graft-versus-host disease	9.77492e-2	35	7508
+Esophagus-GastroesophagealJunction	X204.12	0.449821	3.95365e-6	MMAB	Lymphoid leukemia, chronic	2.85944e-2	86	8016
+Brain-Nucleusaccumbens-basalganglia	X571	6.99421	3.98757e-6	IRF4	Chronic liver disease and cirrhosis	9.63827e-3	463	6421
+Pituitary	X427.21	-1.1388	3.98846e-6	FBXO21	Atrial fibrillation	9.32643e-3	1429	4456
+Brain-Putamen-basalganglia	X635	2.59507	4.03293e-6	FGGY	Hemorrhage during pregnancy; childbirth and postpartum	1.66350e-1	21	8943
+Heart-AtrialAppendage	X642.1	7.22539	4.04009e-6	LRRC55	Preeclampsia and eclampsia	1.75641e-2	32	9047
+Brain-Hippocampus	X255	0.200708	4.12465e-6	HSF2BP	Disorders of adrenal glands	3.19904e-2	243	7558
+Liver	X433.11	-2.10532	4.14864e-6	LRRC56	Occlusion of cerebral arteries, with cerebral infarction	1.80087e-2	79	6934
+Brain-Putamen-basalganglia	X180.3	-0.239874	4.17006e-6	FTCD	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	3.05466e-1	63	7989
+Pituitary	X427.2	-1.12304	4.17671e-6	FBXO21	Atrial fibrillation and flutter	9.32643e-3	1475	4456
+Artery-Coronary	X710.11	-30.4677	4.22675e-6	MARCH6	Acute osteomyelitis	1.69246e-2	101	7311
+Esophagus-Muscularis	X513.8	64.8456	4.28424e-6	KIAA0391	Disorders of diaphragm	1.93022e-2	33	7861
+Heart-AtrialAppendage	X628	3.9908	4.35601e-6	GGPS1	Ovarian cyst	5.35230e-3	133	7657
+Stomach	X220	14.2792	4.39511e-6	MTHFD2	Benign neoplasm of ovary	1.68757e-2	32	8547
+Adipose-Subcutaneous	X930	-4.94838	4.41862e-6	DPEP1	Allergic reaction to food	3.35115e-3	32	7230
+Skin-NotSunExposed-Suprapubic	X586.2	-1.07836	4.47513e-6	LEKR1	Cyst of kidney, acquired	1.44258e-1	140	5644
+Stomach	X316.1	-6.96538	4.48388e-6	MCRS1	Polyneuropathy due to drugs	1.16868e-3	59	7008
+Brain-Anteriorcingulatecortex-BA24	X573	-4.86649	4.48388e-6	GALT	Other disorders of liver	2.80481e-3	252	6421
+Brain-Cortex	X362.27	-5.4483	4.50423e-6	MRPL1	Drusen (degenerative) of retina	1.96776e-3	40	7724
+Muscle-Skeletal	X286.7	-0.82735	4.50896e-6	ECM2	Other and unspecified coagulation defects	5.21771e-2	355	5981
+Stomach	X835	-46.8651	4.55914e-6	FJX1	Internal derangement of knee	4.11912e-3	181	8335
+Liver	X749	-13.1545	4.61667e-6	GPN1	Congenital anomalies of face and neck	1.57485e-2	28	8994
+Thyroid	X523.31	-3.16392	4.67872e-6	GCNT2	Acute periodontitis	4.13914e-2	28	8243
+Heart-AtrialAppendage	X358.1	2.62258	4.81843e-6	MAPK12	Myasthenia gravis	2.43524e-1	20	7798
+Pituitary	X189.4	0.212149	4.87229e-6	LRRC34	Malignant neoplasm of other urinary organs	2.48135e-2	91	8503
+Heart-AtrialAppendage	X571.8	4.31335	4.90227e-6	MYOF	Liver abscess and sequelae of chronic liver disease	3.80322e-3	221	6421
+Liver	X253.2	-29.8876	4.92703e-6	FAM120B	Pituitary hypofunction	1.76104e-2	45	7558
+Colon-Sigmoid	X242	-22.9346	4.95526e-6	IFT43	Thyrotoxicosis with or without goiter	6.17610e-2	152	7001
+Brain-Hippocampus	X274.1	-1.46792	5.02331e-6	LIN7B	Gout	1.25260e-3	559	8288
+Esophagus-Muscularis	X495	-0.741177	5.07682e-6	LRRC34	Asthma	1.54390e-1	688	6820
+Heart-LeftVentricle	X269	-2.06757	5.14857e-6	LPGAT1	Proteinuria	9.11689e-3	275	8239
+Brain-Hypothalamus	X480.11	1.7314	5.18549e-6	HOXC5	Pneumococcal pneumonia	6.30813e-2	37	6217
+Brain-Anteriorcingulatecortex-BA24	X830	0.0708482	5.23530e-6	FAM19A2	Dislocation	3.43295e-2	324	8335
+Artery-Aorta	X394.4	15.7285	5.27881e-6	FEN1	Acute rheumatic heart disease	4.61754e-3	21	7079
+Artery-Tibial	X213	-7.97618	5.33851e-6	GET4	Benign neoplasm of bone and articular cartilage	4.00190e-3	36	8987
+Brain-Anteriorcingulatecortex-BA24	X504.1	-0.0341956	5.35111e-6	FOXQ1	Idiopathic fibrosing alveolitis	4.67687e-2	45	5061
+Liver	X695.8	5.76408	5.39240e-6	FOLH1	Other specified erythematous conditions	3.68197e-3	48	7590
+Nerve-Tibial	X70.9	-6.2325	5.41810e-6	MARCH6	Hepatitis NOS	3.41275e-3	85	7233
+Skin-NotSunExposed-Suprapubic	X707.3	-94.7018	5.44772e-6	MRPL45	Chronic ulcer of unspecified site	8.33241e-3	106	8269
+Artery-Tibial	X580.31	4.61953	5.48203e-6	ITPK1	Nephritis and nephropathy in diseases classified elsewhere	5.04422e-3	157	5644
+Brain-Hippocampus	X626	-1.71292	5.50066e-6	LAMC1	Disorders of menstruation and other abnormal bleeding from female genital tract	3.77282e-3	376	7657
+Esophagus-GastroesophagealJunction	X370.1	63.1203	5.57222e-6	DUS1L	Corneal ulcer	5.48724e-2	23	7798
+Brain-FrontalCortex-BA9	X610.1	-1.02283	5.60217e-6	MTPAP	Cystic mastopathy	1.41287e-1	156	7907
+Thyroid	X574.2	2.69669	5.65461e-6	HRH1	Calculus of bile duct	9.68914e-3	67	8056
+Skin-SunExposed-Lowerleg	X420	-0.961445	5.68296e-6	MTFR1	Carditis	1.30328e-1	299	7787
+Breast-MammaryTissue	X365	4.13795	5.70235e-6	FBXO42	Glaucoma	2.00907e-3	362	7724
+Spleen	X452	-3.71323	5.72263e-6	GRIN3B	Other venous embolism and thrombosis	2.15020e-2	790	6144
+Brain-Hypothalamus	X364.2	-0.356803	5.73799e-6	HEATR4	Corneal edema	1.80644e-1	20	7724
+Colon-Sigmoid	X275.5	2.00845	5.80158e-6	KIAA0513	Disorders of calcium/phosphorus metabolism	1.22990e-2	485	7588
+Heart-AtrialAppendage	X279.1	2.29661	5.83306e-6	MTCH2	Immunity deficiency	5.06888e-3	285	8183
+Brain-CerebellarHemisphere	X414.2	7.73138	5.85048e-6	HIST1H1D	ASCVD	8.14740e-3	94	5786
+Brain-Cerebellum	X585.32	-0.414957	5.85395e-6	GINS3	End stage renal disease	2.17027e-1	597	5644
+Muscle-Skeletal	X184.2	6.95468	5.90484e-6	MAP3K12	Cancer of other female genital organs	3.41078e-2	33	7989
+Pituitary	X180.3	-7.90942	6.00246e-6	IPMK	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	7.24176e-3	63	7989
+AdrenalGland	X149	5.39472	6.00922e-6	ETFB	Cancer of larynx, pharynx, nasal cavities	3.69807e-3	268	8031
+Colon-Sigmoid	X290.11	-7.82418	6.01770e-6	KTN1	Alzheimer's disease	5.78220e-3	121	6654
+Skin-NotSunExposed-Suprapubic	X722.7	-3.99922	6.02545e-6	ITCH	Intervertebral disc disorder with myelopathy	7.33487e-3	31	6852
+Colon-Transverse	X291.4	5.1887	6.04742e-6	MLST8	Specific nonpsychotic mental disorders due to brain damage	2.40946e-2	22	6654
+Brain-Cortex	X871.3	3.03907	6.07131e-6	GPATCH1	Open wound of foot except toe(s) alone	7.38936e-2	38	7534
+Brain-Hippocampus	X110.13	1.83727	6.14380e-6	ENO3	Dermatophytosis of the body	4.58638e-2	37	7391
+Brain-Putamen-basalganglia	X313.1	-0.101256	6.16972e-6	GNLY	Attention deficit hyperactivity disorder	6.36247e-3	49	8646
+Liver	X427.1	-1.87796	6.25357e-6	HIVEP3	Paroxysmal tachycardia, unspecified	3.66191e-2	650	4456
+Lung	X969	26.5727	6.28891e-6	KCTD8	Poisoning by psychotropic agents	1.55556e-2	25	6561
+Brain-Caudate-basalganglia	X292.2	2.23937	6.30396e-6	FAM229B	Mild cognitive impairment	1.38131e-1	21	6654
+Heart-LeftVentricle	X790.1	-13.2164	6.30714e-6	FAM196A	Elevated sedimentation rate	1.03578e-3	35	7554
+Brain-Putamen-basalganglia	X227.1	3.97611	6.34613e-6	FBXL6	Benign neoplasm of adrenal gland	2.53923e-3	22	8574
+Esophagus-GastroesophagealJunction	X245.21	28.6644	6.39294e-6	GALNS	Chronic lymphocytic thyroiditis	2.19141e-2	42	7001
+Cells-Transformedfibroblasts	X204.2	4.15304	6.45294e-6	LRRC63	Myeloid leukemia	2.43264e-3	176	8016
+Stomach	X303	2.42253	6.47372e-6	ENPP3	Psychogenic and somatoform disorders	1.86136e-2	67	5392
+Brain-Caudate-basalganglia	X444.2	4.49837	6.52561e-6	KIR3DL2	Embolism and thrombosis of abdominal aorta	9.38025e-3	30	6676
+Esophagus-Muscularis	X452	-0.906595	6.53880e-6	GRIN3B	Other venous embolism and thrombosis	5.79740e-2	790	6144
+Colon-Sigmoid	X612.2	17.6773	6.56211e-6	LAMP5	Hypertrophy of breast (Gynecomastia)	1.78143e-3	50	8140
+Brain-Nucleusaccumbens-basalganglia	X285	0.235368	6.62363e-6	MPHOSPH8	Other anemias	1.09927e-1	3036	4684
+Artery-Coronary	X564.1	1.19691	6.72243e-6	FKTN	Irritable Bowel Syndrome	2.45907e-3	214	5956
+Brain-Hypothalamus	X212	-0.30312	6.81614e-6	HEATR4	Benign neoplasm of respiratory and intrathoracic organs	1.80644e-1	45	8872
+Brain-Cerebellum	X303.4	27.888	6.84726e-6	ID4	Somatoform disorder	4.89376e-2	50	5392
+Spleen	X158	-6.38382	6.85041e-6	MRPL46	Neoplasm of unspecified nature of digestive system	1.02889e-2	87	8073
+Testis	X335	-40.1221	6.89770e-6	FAM210B	Multiple sclerosis	6.70858e-3	84	6421
+Brain-Hypothalamus	X170.1	-0.394251	6.93520e-6	MAP7	Bone cancer	1.37252e-1	136	8731
+Pituitary	X750.2	-1.63786	6.95923e-6	DPH6	Lower gastrointestinal congenital anomalies	1.02551e-1	35	8409
+Brain-Cortex	X740.1	3.08522	7.00374e-6	KCTD8	Osteoarthritis; localized	1.05540e-3	684	6692
+Brain-FrontalCortex-BA9	X454.1	-0.934563	7.01274e-6	METTL18	Varicose veins of lower extremity	2.64987e-1	94	6144
+Spleen	X457.2	-2.85054	7.02527e-6	HOXB9	Encounter for long-term (current) use of antiplatelets/antithrombotics	4.68016e-3	40	6144
+Skin-NotSunExposed-Suprapubic	X990	36.69	7.05530e-6	MAPK8IP2	Effects radiation NOS	2.81924e-2	105	8857
+Brain-FrontalCortex-BA9	X261.4	-0.646649	7.08445e-6	MYOM2	Vitamin D deficiency	3.66842e-2	571	6138
+Pituitary	X754	-3.40807	7.09601e-6	GNA15	Congenital musculoskeletal deformities of spine	2.05479e-2	34	8697
+Artery-Coronary	X526.41	270.247	7.12503e-6	HK1	Temporomandibular joint disorder, unspecified	7.68372e-3	22	8243
+SmallIntestine-TerminalIleum	X290.13	2.12657	7.12503e-6	MTAP	Senile dementia	5.53201e-3	85	6654
+Ovary	X531	-3.41677	7.12725e-6	ILF2	Peptic ulcer (excl. esophageal)	2.95204e-2	283	8568
+Breast-MammaryTissue	X496.3	-1.53368	7.19612e-6	IFI35	Bronchiectasis	2.24482e-2	124	6820
+Pituitary	X495.2	3.42458	7.23839e-6	KIAA0513	Asthma with exacerbation	1.09311e-2	105	6820
+Thyroid	X697	3.68682	7.31832e-6	MYLPF	Sarcoidosis	2.27318e-2	33	7590
+Skin-NotSunExposed-Suprapubic	X626.2	1.90563	7.33424e-6	DSC3	Dysmenorrhea	5.26411e-2	45	7657
+Spleen	X727.4	-9.704	7.41873e-6	LSMEM1	Ganglion and cyst of synovium, tendon, and bursa	2.42167e-2	69	6730
+Brain-Cortex	X286.1	-5.57148	7.43086e-6	MCM8	Congenital coagulation defects	2.37263e-2	34	5981
+Pituitary	X599.6	-12.4078	7.47250e-6	LYSMD3	Oliguria and anuria	2.47776e-2	52	6083
+Brain-Hippocampus	X580.4	-0.765236	7.50017e-6	FUT7	Renal sclerosis, NOS	2.18844e-1	52	5644
+AdrenalGland	X575	-1.16885	7.50453e-6	NARS2	Other biliary tract disease	1.17034e-1	258	8056
+Brain-Cortex	X636.1	2.29424	7.50586e-6	KLF3	Threatened premature labor	4.74299e-2	37	8943
+Artery-Aorta	X755	1.69649	7.50964e-6	MFAP3L	Congenital anomalies of limbs	1.76086e-1	36	8811
+Thyroid	X70.9	-3.72386	7.53282e-6	MARCH6	Hepatitis NOS	2.83684e-2	85	7233
+Lung	X568.1	-0.980729	7.54673e-6	MDGA1	Peritoneal adhesions (postoperative) (postinfection)	3.15304e-1	96	7242
+Skin-NotSunExposed-Suprapubic	X372	3.097	7.57809e-6	KLK1	Disorders of conjunctiva	5.12719e-2	34	7798
+Skin-NotSunExposed-Suprapubic	X256	3.89392	7.59931e-6	MUC6	Ovarian dysfunction	1.29744e-2	59	7558
+Artery-Aorta	X457	0.688562	7.63106e-6	MAP3K11	Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin	1.86874e-1	394	6144
+Stomach	X349	-3.30711	7.65794e-6	MARCO	Other and unspecified disorders of the nervous system	3.80581e-2	66	6544
+Breast-MammaryTissue	X159	-1.49316	7.74863e-6	MMP2	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	1.70085e-2	157	8073
+Adipose-Subcutaneous	X365	6.46769	7.75951e-6	FBXO42	Glaucoma	1.14959e-2	362	7724
+Colon-Transverse	X331	-2.56477	7.78865e-6	GOLGA3	Other cerebral degenerations	2.11403e-2	205	6544
+Muscle-Skeletal	X947	3.30014	7.81458e-6	HLTF	Urticaria	2.03695e-2	65	7230
+Spleen	X110.13	0.257541	7.84603e-6	EMC1	Dermatophytosis of the body	7.56456e-2	37	7391
+Cells-Transformedfibroblasts	X155	-5.2778	7.86689e-6	MTIF3	Cancer of liver and intrahepatic bile duct	9.62447e-3	107	8073
+Liver	X705	0.145984	7.87899e-6	KLF3	Disorders of sweat glands	6.29967e-2	38	8052
+Cells-Transformedfibroblasts	X331.1	27.6245	7.88397e-6	IFIH1	Hydrocephalus	1.25896e-2	134	6544
+Thyroid	X337	1.9893	7.91687e-6	EMILIN2	Disorders of the autonomic nervous system	5.09385e-2	90	6544
+Esophagus-Muscularis	X714.1	3.13704	7.96550e-6	FOXN3	Rheumatoid arthritis	7.79240e-3	310	6807
+Artery-Aorta	X536.3	5.93371	7.96975e-6	IFIH1	Gastroparesis	9.18339e-3	109	7579
+Artery-Coronary	X593.1	5.1787	8.02158e-6	KIF1B	Gross hematuria	6.91144e-2	59	5793
+Liver	X394.4	0.227336	8.08054e-6	EIF2AK1	Acute rheumatic heart disease	2.73543e-2	21	7079
+Skin-SunExposed-Lowerleg	X426.7	2.85842	8.15346e-6	ITGA6	Abnormal electrocardiogram [ECG] [EKG]	1.56832e-2	362	4456
+Heart-AtrialAppendage	X251	-24.6753	8.17777e-6	MEDAG	Other disorders of pancreatic internal secretion	7.06883e-3	90	7558
+Pancreas	X389.2	-4.08066	8.23503e-6	LITAF	Conductive hearing loss	3.99296e-3	98	7899
+Cells-Transformedfibroblasts	X536.3	9.55739	8.24802e-6	H1F0	Gastroparesis	1.15692e-3	109	7579
+Cells-EBV-transformedlymphocytes	X385	4.66918	8.27298e-6	MARCO	Other disorders of middle ear and mastoid	1.83718e-2	38	8088
+Nerve-Tibial	X724.8	-12.2439	8.28208e-6	LYSMD3	Other symptoms referable to back	1.32027e-3	21	6852
+Adipose-Subcutaneous	X31	-5.71204	8.28430e-6	DPEP1	Diseases due to other mycobacteria	3.35115e-3	22	6607
+Brain-Cerebellum	X875	0.0555563	8.30948e-6	MRO	Non-healing surgical wound	7.88448e-2	80	7534
+SmallIntestine-TerminalIleum	X735.23	-5.59493	8.33974e-6	MTPAP	Hallux rigidus	5.12806e-3	21	7256
+Liver	X427.2	-1.31662	8.42561e-6	HIVEP3	Atrial fibrillation and flutter	3.66191e-2	1475	4456
+Brain-Cerebellum	X749	-2.57847	8.55344e-6	FAM204A	Congenital anomalies of face and neck	7.21020e-2	28	8994
+Spleen	X701.4	-14.9454	8.61663e-6	GABRD	Keloid scar	2.24033e-3	25	7128
+Artery-Tibial	X260	-0.482954	8.63406e-6	EPN2	Protein-calorie malnutrition	1.71983e-1	1164	6138
+Stomach	X586.3	-7.98503	8.69404e-6	INHBB	Vascular disorders of kidney/hypertrophy	6.01312e-3	20	5644
+Cells-EBV-transformedlymphocytes	X348.2	78.4464	8.70593e-6	FPGS	Cerebral edema and compression of brain	1.95402e-2	145	6544
+Spleen	X701.4	0.073253	8.75491e-6	MAT2B	Keloid scar	4.94759e-2	25	7128
+Brain-FrontalCortex-BA9	X454	-0.843372	8.79940e-6	METTL18	Varicose veins	2.64987e-1	119	6144
+Pituitary	X189	0.162949	8.83157e-6	LRRC34	Cancer of urinary organs (incl. kidney and bladder)	2.48135e-2	450	8503
+Esophagus-GastroesophagealJunction	X202.21	0.407527	8.91373e-6	MMAB	Nodular lymphoma	2.85944e-2	109	8016
+Stomach	X110.13	-4.08589	8.92781e-6	METAP1	Dermatophytosis of the body	8.68256e-3	37	7391
+AdrenalGland	X332	3.80543	8.92917e-6	GPR156	Parkinson's disease	3.28295e-2	80	6544
+Cells-EBV-transformedlymphocytes	X317.11	1.63736	8.95351e-6	MUC15	Alcoholic liver damage	9.57459e-3	67	7008
+Esophagus-GastroesophagealJunction	X110.13	43.5861	8.97820e-6	ERCC8	Dermatophytosis of the body	6.76337e-2	37	7391
+Cells-Transformedfibroblasts	X277.7	3.77816	9.00308e-6	HLTF	Dysmetabolic syndrome X	2.19480e-2	80	8608
+Pancreas	X711.1	2.80139	9.00828e-6	FOXQ1	Pyogenic arthritis	2.45788e-2	79	7311
+Pancreas	X395.4	-17.956	9.07420e-6	FCGR1A	Nonrheumatic pulmonary valve disorders	1.84800e-2	20	7079
+Colon-Sigmoid	X696.41	3.98843	9.11419e-6	MACROD2	Psoriasis vulgaris	3.46228e-3	106	7172
+Muscle-Skeletal	X253	5.50549	9.13453e-6	FAM98A	Disorders of the pituitary gland and its hypothalamic control	1.02056e-2	149	7558
+Breast-MammaryTissue	X159.4	4.79619	9.13861e-6	KLHL32	Malignant neoplasm of retroperitoneum and peritoneum	1.63958e-2	32	8073
+Brain-Putamen-basalganglia	X555.1	-0.336522	9.23323e-6	MTFR1	Regional enteritis	7.59790e-3	134	5956
+Cells-Transformedfibroblasts	X722.1	3.30458	9.27498e-6	GPHN	Displacement of intervertebral disc	6.04907e-3	207	6852
+Skin-NotSunExposed-Suprapubic	X465.4	-274.793	9.31180e-6	FAM209A	Acute laryngitis and tracheitis	2.31136e-2	22	6770
+Pancreas	X362.29	-2.55083	9.32039e-6	ETF1	Macular degeneration (senile) of retina NOS	6.12391e-2	92	7724
+Lung	X478	-3.09045	9.45177e-6	ESRRB	Throat pain	8.55563e-2	41	6193
+Brain-Cortex	X365	4.87263	9.46227e-6	FBXO42	Glaucoma	7.28270e-3	362	7724
+Artery-Coronary	X747.13	-4.61306	9.47477e-6	LILRA6	Congenital anomalies of great vessels	4.18645e-2	58	8634
+Colon-Transverse	X686	-2.92602	9.47552e-6	FMO2	Other local infections of skin and subcutaneous tissue	2.86879e-2	219	6905
+Pituitary	X189.11	0.176999	9.52025e-6	LRRC34	Malignant neoplasm of kidney, except pelvis	2.48135e-2	233	8503
+Colon-Transverse	X454.1	-0.768604	9.52419e-6	METTL18	Varicose veins of lower extremity	3.20251e-1	94	6144
+Brain-Hypothalamus	X159.4	-3.06805	9.54711e-6	INPP5D	Malignant neoplasm of retroperitoneum and peritoneum	2.79176e-2	32	8073
+Liver	X772.4	-4.08454	9.60229e-6	INPP1	Rhabdomyolysis	2.47598e-2	35	7828
+Brain-Putamen-basalganglia	X320	0.459903	9.60315e-6	FTCD	Meningitis	3.05466e-1	79	8848
+Esophagus-Muscularis	X695.8	2.56081	9.61970e-6	LRP5L	Other specified erythematous conditions	2.98590e-2	48	7590
+Brain-Nucleusaccumbens-basalganglia	X571.5	7.11623	9.70924e-6	IRF4	Other chronic nonalcoholic liver disease	9.63827e-3	394	6421
+Brain-CerebellarHemisphere	X353	-1.35862	9.82181e-6	HBQ1	Nerve root and plexus disorders	1.21160e-2	67	7504
+Brain-CerebellarHemisphere	X427.61	7.11708	9.82618e-6	MRAP	Supraventricular premature beats	5.15709e-2	20	4456
+Skin-SunExposed-Lowerleg	X380.1	9.32023	9.83225e-6	FMO5	Otitis externa	1.96695e-3	93	8399
+Muscle-Skeletal	X401.1	1.45537	9.84737e-6	LRRC34	Essential hypertension	1.73894e-3	5150	3058
+Brain-Cerebellum	X805	-1.53425	9.90428e-6	HMGB1	Fracture of vertebral column without mention of spinal cord injury	8.40335e-3	334	7283
+Liver	X252.2	7.4563	9.91846e-6	MRPS9	Hypoparathyroidism	4.51994e-2	24	7558
+Brain-Anteriorcingulatecortex-BA24	X426.7	-21.3189	9.95846e-6	MYOM2	Abnormal electrocardiogram [ECG] [EKG]	3.62743e-2	362	4456
+Heart-LeftVentricle	X430.3	5.58865	9.99722e-6	INF2	Subdural hemorrhage	1.30053e-3	79	6934
+Artery-Aorta	X175	-1.72591e16	0.00000e+0	PADI3	Acquired absence of breast	1.31392e-2	83	8088
+Cells-Transformedfibroblasts	X289.9	2.01111e15	0.00000e+0	PYCARD	Abnormality of red blood cells	5.07841e-2	20	5838
+Esophagus-Mucosa	X627.1	2.92197e16	0.00000e+0	PROCR	Postmenopausal bleeding	3.39278e-2	87	7657
+Esophagus-Mucosa	X180.3	-1.65923e16	0.00000e+0	PROCR	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	3.39278e-2	63	7989
+Pancreas	X613.1	2.14942e16	0.00000e+0	STXBP3	Inflammatory disease of breast	4.92647e-2	33	8018
+Muscle-Skeletal	X286.81	-5.39243	8.74561e-10	SELE	Primary hypercoagulable state	9.03580e-3	80	5981
+Testis	X279.11	6.66454	1.44067e-9	SCNN1D	Deficiency of humoral immunity	2.03526e-2	57	8183
+Muscle-Skeletal	X286.8	-4.85036	2.78659e-9	SELE	Hypercoagulable state	9.03580e-3	98	5981
+Pancreas	X977	35.7385	1.01845e-8	SLFN11	Personal history of allergy to medicinal agents	1.16025e-2	30	6561
+Pituitary	X738	2.44095	1.09461e-8	PROM2	Other acquired musculoskeletal deformity	2.36874e-2	178	7256
+Liver	X315	4.19607	1.30528e-8	REV3L	Develomental delays and disorders	5.40682e-3	150	8646
+Testis	X320	-7.9306	2.79682e-8	TBC1D22B	Meningitis	1.24505e-3	79	8848
+Adipose-Subcutaneous	X523.31	-48.8379	3.58493e-8	RPL41	Acute periodontitis	1.82306e-2	28	8243
+Adipose-Subcutaneous	X290	-1.90297	4.29359e-8	NUP133	Delirium dementia and amnestic and other cognitive disorders	4.01279e-2	474	6654
+Heart-AtrialAppendage	X215	-3.64855	5.70620e-8	NT5M	Other benign neoplasm of connective and other soft tissue	1.21972e-2	28	8688
+Muscle-Skeletal	X451	-3.54893	8.24321e-8	SELE	Phlebitis and thrombophlebitis	9.03580e-3	170	6144
+Adipose-Subcutaneous	X523.3	-44.7384	8.83256e-8	RPL41	Periodontitis (acute or chronic)	1.82306e-2	43	8243
+Skin-SunExposed-Lowerleg	X382	12.8561	1.03847e-7	NID2	Otalgia	2.87170e-2	92	8088
+Ovary	X747.13	-0.134744	1.34239e-7	SLC16A9	Congenital anomalies of great vessels	6.70723e-3	58	8634
+Artery-Aorta	X287.3	-12.6715	1.44919e-7	SYNC	Thrombocytopenia	4.70237e-3	847	5981
+Stomach	X524	22.8724	1.45320e-7	PROCR	Dentofacial anomalies, including malocclusion	1.07238e-3	28	8243
+Brain-Hippocampus	X241.1	2.44885	2.04326e-7	SLC25A30	Nontoxic uninodular goiter	8.71302e-2	111	7001
+Artery-Aorta	X287	-12.2735	2.07805e-7	SYNC	Purpura and other hemorrhagic conditions	4.70237e-3	895	5981
+Pancreas	X220	1.6145	2.13230e-7	PRRC1	Benign neoplasm of ovary	9.90140e-2	32	8547
+Artery-Aorta	X967	0.0385897	2.16574e-7	POLR2J	Adverse effects of sedatives or other central nervous system depressants and anesthetics	1.19318e-1	40	6561
+Cells-Transformedfibroblasts	X379.9	25.2306	2.20905e-7	RB1CC1	Pain, swelling or discharge of eye	1.93699e-2	35	7801
+Brain-Cerebellum	X274	-3.45459	2.45577e-7	NUDT9	Gout and other crystal arthropathies	1.42444e-3	583	8288
+Muscle-Skeletal	X286.1	-6.52917	2.49521e-7	SELE	Congenital coagulation defects	9.03580e-3	34	5981
+Colon-Transverse	X513	-1.0083	2.65104e-7	STAM	Respiratory abnormalities	7.23877e-2	484	7861
+Cells-Transformedfibroblasts	X370.2	26.0345	2.78337e-7	RB1CC1	Superficial keratitis	1.93699e-2	20	7798
+Brain-Hippocampus	X184.2	-9.56207	2.80974e-7	POLR2L	Cancer of other female genital organs	6.38160e-2	33	7989
+Muscle-Skeletal	X250.13	4.36526	2.85747e-7	PRSS16	Type 1 diabetes with ophthalmic manifestations	7.33756e-3	98	4936
+Artery-Aorta	X480.12	1.34098	3.40816e-7	TCFL5	Pseudomonal pneumonia	8.84730e-2	105	6217
+Brain-Anteriorcingulatecortex-BA24	X297.2	-22.419	3.51198e-7	RASD1	Suicide or self-inflicted injury	7.17865e-2	40	5392
+Muscle-Skeletal	X286.12	-7.41902	3.62002e-7	SELE	Congenital deficiency of other clotting factors (including factor VII)	9.03580e-3	24	5981
+Brain-Cerebellum	X274.1	-3.46994	3.80364e-7	NUDT9	Gout	1.42444e-3	559	8288
+Liver	X246	0.604824	4.24050e-7	RAP1GAP	Other disorders of thyroid	1.28508e-2	93	7001
+Breast-MammaryTissue	X220	34.3306	4.82346e-7	PRRC1	Benign neoplasm of ovary	2.70034e-2	32	8547
+Brain-Anteriorcingulatecortex-BA24	X695.7	-0.0828793	5.01390e-7	RNF34	Prurigo and Lichen	2.05650e-3	23	7590
+Spleen	X255.11	-50.0471	5.24494e-7	PYCARD	Cushing's syndrome	4.06295e-2	28	7558
+Cells-EBV-transformedlymphocytes	X290	-1.21756	5.78415e-7	NUP133	Delirium dementia and amnestic and other cognitive disorders	5.80962e-2	474	6654
+Pituitary	X619.1	4.28957	5.79759e-7	RRP9	Noninflammatory disorders of ovary, fallopian tube, and broad ligament	3.19830e-2	31	8667
+Muscle-Skeletal	X512	-0.995356	5.86374e-7	SLC25A16	Other symptoms of respiratory system	3.56068e-2	4237	3702
+Skin-SunExposed-Lowerleg	X245	13.3139	5.95254e-7	NID2	Thyroiditis	2.87170e-2	59	7001
+Skin-NotSunExposed-Suprapubic	X374.6	-6.25966	6.29356e-7	PPA2	Dermatochalasis	9.09687e-3	94	7798
+Brain-Cortex	X601.11	-2.96866	6.51020e-7	PHYHD1	Acute prostatitis	1.36893e-2	20	7335
+Pancreas	X772.1	0.0581275	6.53234e-7	PTPRB	Muscular wasting and disuse atrophy	6.83498e-2	33	7828
+Esophagus-Muscularis	X574.12	-30.4454	6.71339e-7	PXDN	Cholelithiasis with other cholecystitis	2.60960e-3	51	8056
+Spleen	X621	9.7675	7.04950e-7	SPON2	Endometrial hyperplasia	6.81956e-2	24	8951
+Skin-SunExposed-Lowerleg	X452	-12.0106	7.13649e-7	RNF126	Other venous embolism and thrombosis	3.44282e-3	790	6144
+Colon-Sigmoid	X81.12	-3.94391	7.30695e-7	NDUFS3	Chronic graft-versus-host disease	1.10301e-2	24	7508
+Heart-AtrialAppendage	X704.1	6.57935	7.53385e-7	SHBG	Alopecia	4.11276e-2	51	8443
+Brain-Putamen-basalganglia	X380.1	-17.9235	7.65728e-7	NUF2	Otitis externa	3.92831e-3	93	8399
+Liver	X253.1	-2.60305	8.03431e-7	PPA2	Pituitary hyperfunction	5.35587e-3	33	7558
+Brain-Anteriorcingulatecortex-BA24	X575.8	-2.1544	8.59900e-7	NDEL1	Other disorders of biliary tract	7.96396e-2	127	8056
+Brain-Hippocampus	X352	0.017577	9.00683e-7	PRPH2	Disorders of other cranial nerves	1.13774e-1	148	7504
+Muscle-Skeletal	X452	-1.67129	9.01459e-7	SELE	Other venous embolism and thrombosis	9.03580e-3	790	6144
+Thyroid	X471	3.67193	9.14623e-7	SLC46A1	Nasal polyps	1.22364e-2	49	6193
+AdrenalGland	X150	-1.69489	9.19473e-7	POLR3G	Cancer of esophagus	1.27012e-1	65	8073
+Liver	X743.4	7.66081	9.39310e-7	STMN3	Stress fracture	6.44303e-3	24	6588
+Heart-AtrialAppendage	X250.12	2.81838	9.41053e-7	RPS26	Type 1 diabetes with renal manifestations	1.54114e-2	137	4936
+Pituitary	X871.1	-82.5895	9.43857e-7	SZRD1	Open wound of hand except finger(s)	7.29410e-2	43	7534
+Brain-Hippocampus	X655.1	4.51136	9.45171e-7	SEMA7A	Abnormality in fetal heart rate or rhythm	8.16138e-3	31	8959
+Spleen	X414.2	-1.17453	9.71246e-7	SEPW1	ASCVD	1.39455e-1	94	5786
+Brain-FrontalCortex-BA9	X327.1	-0.167603	9.94744e-7	RAB27A	Hypersomnia	1.04221e-1	33	6920
+Artery-Coronary	X301.2	3.78294	1.00313e-6	POFUT1	Antisocial/borderline personality disorder	1.64848e-2	44	5392
+Breast-MammaryTissue	X250.21	-25.64	1.04113e-6	POLR3GL	Type 2 diabetes with ketoacidosis	6.63446e-3	31	4936
+Thyroid	X371.1	-27.3489	1.05867e-6	SH3PXD2B	Uveitis, noninfectious or NOS	2.53361e-3	43	7798
+Heart-LeftVentricle	X226	-2.18785	1.08804e-6	PDLIM4	Benign neoplasm of thyroid glands	1.11892e-1	23	8574
+Esophagus-GastroesophagealJunction	X585.32	1.33991	1.09232e-6	SYNC	End stage renal disease	1.19940e-2	597	5644
+Stomach	X958.2	13.3667	1.10570e-6	PGAM1	Traumatic and surgical subcutaneous emphysema	1.12614e-3	52	8713
+Heart-LeftVentricle	X578.1	4.60122	1.10640e-6	SGSH	Hematemesis	1.09029e-2	87	6905
+Adipose-Subcutaneous	X523	-33.3475	1.10667e-6	RPL41	Gingival and periodontal diseases	1.82306e-2	133	8243
+Colon-Transverse	X306	-3.27481	1.10857e-6	SLC2A9	Other mental disorder	5.55418e-2	34	5392
+Brain-CerebellarHemisphere	X706.8	-24.9425	1.11132e-6	RGS3	Other specified diseases of sebaceous glands	6.70661e-3	52	8052
+Brain-Hippocampus	X184	-6.11783	1.12090e-6	POLR2L	Cancer of other female genital organs	6.38160e-2	123	7989
+Testis	X771.1	1.42171	1.15758e-6	PHOSPHO2	Swelling of limb	1.00511e-2	516	7238
+Esophagus-Muscularis	X290	-2.33146	1.16587e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	5.33509e-3	474	6654
+Heart-AtrialAppendage	X290.16	4.47959	1.19840e-6	ST3GAL4	Vascular dementia	6.67940e-3	54	6654
+Esophagus-Mucosa	X10	5.30712	1.20953e-6	PTK7	Tuberculosis	8.62653e-3	21	6607
+Nerve-Tibial	X198.3	-1.39974	1.29629e-6	SLC37A4	Secondary malignant neoplasm of digestive systems	3.63239e-2	168	6274
+Breast-MammaryTissue	X573.3	-52.4164	1.32035e-6	RHOF	Hepatomegaly	5.23946e-2	40	6421
+SmallIntestine-TerminalIleum	X512	-2.98503	1.32714e-6	SLC25A16	Other symptoms of respiratory system	3.23674e-2	4237	3702
+Ovary	X246	27.4433	1.34045e-6	PHLDB1	Other disorders of thyroid	6.98125e-2	93	7001
+Brain-Hypothalamus	X327.1	0.0506514	1.34790e-6	RAB27A	Hypersomnia	7.29359e-2	33	6920
+Skin-NotSunExposed-Suprapubic	X592.11	-6.43005	1.39781e-6	SIVA1	Acute cystitis	1.97480e-2	21	5793
+Brain-Anteriorcingulatecortex-BA24	X713	16.6098	1.40513e-6	RASGEF1A	Arthropathy associated with other disorders classified elsewhere	9.80664e-2	64	7311
+Brain-CerebellarHemisphere	X747.11	38.4124	1.45503e-6	P2RX3	Cardiac shunt/ heart septal defect	3.56481e-2	152	8634
+Thyroid	X386.9	1.28262	1.47887e-6	SPARCL1	Dizziness and giddiness (Light-headedness and vertigo)	3.60148e-3	740	7565
+Testis	X854	-1.29777	1.50114e-6	RGS7	Complications of cardiac/vascular device, implant, and graft	1.01521e-1	337	6685
+Heart-AtrialAppendage	X442.11	-5.58662	1.50934e-6	PARP4	Abdominal aortic aneurysm	1.10534e-2	155	6676
+Nerve-Tibial	X189.11	-14.6633	1.51116e-6	PTK7	Malignant neoplasm of kidney, except pelvis	2.98238e-3	233	8503
+Nerve-Tibial	X698	-1.54072	1.51466e-6	SULT1C4	Pruritus and related conditions	1.11149e-1	139	8730
+Artery-Coronary	X365	-1.40252	1.52529e-6	SULT1C4	Glaucoma	2.82942e-2	362	7724
+Pancreas	X530.2	4.71242	1.52694e-6	SUPV3L1	Esophageal bleeding (varices/hemorrhage)	2.01989e-3	120	5130
+Colon-Sigmoid	X253.7	3.85633	1.53122e-6	SYNGR3	Other disorders of neurohypophysis	9.20863e-3	22	7558
+Brain-Hypothalamus	X53.1	2.68174	1.57238e-6	PDDC1	Herpes zoster with nervous system complications	1.96300e-2	29	7233
+Lung	X459	-1.26183	1.61249e-6	SCD	Other disorders of circulatory system	1.55730e-2	318	6597
+Adipose-Subcutaneous	X302	-10.053	1.62888e-6	SECISBP2	Sexual and gender identity disorders	5.06720e-3	25	5392
+Brain-CerebellarHemisphere	X496.3	1.44082	1.68532e-6	RNF7	Bronchiectasis	9.55879e-2	124	6820
+Brain-Anteriorcingulatecortex-BA24	X280	0.706554	1.68587e-6	SIGIRR	Iron deficiency anemias	1.37775e-2	725	4684
+Breast-MammaryTissue	X967	-0.154828	1.74313e-6	POLR2J3	Adverse effects of sedatives or other central nervous system depressants and anesthetics	5.96966e-2	40	6561
+Skin-SunExposed-Lowerleg	X965.1	38.997	1.75490e-6	SNRPB2	Opiates and related narcotics causing adverse effects in therapeutic use	6.17767e-3	38	6561
+Heart-LeftVentricle	X345.12	37.7035	1.92123e-6	SERPINA11	Partial epilepsy	7.58438e-2	122	6544
+Muscle-Skeletal	X451.2	-4.23968	1.92849e-6	SELE	Phlebitis and thrombophlebitis of lower extremities	9.03580e-3	88	6144
+Stomach	X426.24	1.55848	1.97345e-6	SERP1	Atrioventricular block, complete	5.15144e-2	180	4456
+Skin-NotSunExposed-Suprapubic	X480.2	2.52232	2.01030e-6	SNAPC3	Viral pneumonia	2.06381e-2	28	6217
+Brain-Putamen-basalganglia	X194	-0.648472	2.04534e-6	RMDN3	Cancer of other endocrine glands	1.51619e-1	31	8718
+Pancreas	X433.1	-0.645981	2.04772e-6	OLFML2A	Occlusion and stenosis of precerebral arteries	7.07614e-2	627	6934
+Testis	X573.6	6.30781	2.08303e-6	TAS2R10	Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	1.53586e-3	253	6421
+Esophagus-Muscularis	X38.1	-5.20643	2.08950e-6	SPTLC2	Gram negative septicemia	2.58814e-3	181	6607
+SmallIntestine-TerminalIleum	X876	-1.69741	2.24849e-6	SMOX	Posttraumatic wound infection not elsewhere classified	3.99998e-2	43	7534
+Nerve-Tibial	X290.11	-2.52291	2.25473e-6	SPINK5	Alzheimer's disease	2.74324e-2	121	6654
+Pituitary	X575.7	9.60886	2.31860e-6	NNT	Other disorders of gallbladder	9.55324e-3	37	8056
+Pituitary	X803.21	-80.5017	2.40864e-6	SZRD1	Colles' fracture	7.29410e-2	29	7283
+Colon-Transverse	X290	-4.44511	2.43069e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	1.61830e-2	474	6654
+Thyroid	X290	-1.01643	2.47951e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	1.04680e-1	474	6654
+Artery-Coronary	X447	2.82622	2.53317e-6	SLC2A14	Other disorders of arteries and arterioles	5.32570e-2	102	6676
+Skin-NotSunExposed-Suprapubic	X389.1	4.67084	2.55163e-6	NOSTRIN	Sensorineural hearing loss	1.69812e-3	495	7899
+Muscle-Skeletal	X636.3	4.91518	2.57168e-6	NAV2	Hemorrhage in early pregnancy	3.39192e-2	33	8943
+Brain-FrontalCortex-BA9	X495	1.01968	2.59077e-6	RFXANK	Asthma	2.13520e-2	688	6820
+Testis	X626.11	-51.3481	2.61311e-6	SOGA3	Absent or infrequent menstruation	1.31083e-3	65	7657
+Breast-MammaryTissue	X255.1	1.73362	2.67660e-6	SLC22A23	Adrenal hyperfunction	1.43763e-2	55	7558
+Colon-Transverse	X755	-7.40481	2.69413e-6	PHACTR4	Congenital anomalies of limbs	1.56313e-3	36	8811
+Colon-Transverse	X370.31	14.7443	2.69607e-6	PDPK1	Keratoconjunctivitis sicca	1.16514e-3	101	7798
+Skin-NotSunExposed-Suprapubic	X947	-20.2712	2.78407e-6	PDE11A	Urticaria	6.00658e-3	65	7230
+Ovary	X41.12	3.95111	2.79722e-6	PRELID2	Methicillin resistant Staphylococcus aureus	1.17309e-2	193	6607
+Pancreas	X427.22	5.24429	2.83521e-6	PTPN1	Atrial flutter	3.44050e-3	358	4456
+Cells-Transformedfibroblasts	X480.12	3.56804	2.84701e-6	POLR2L	Pseudomonal pneumonia	5.17008e-2	105	6217
+Artery-Coronary	X707.2	-1.03265	2.85013e-6	SPDYE2	Chronic ulcer of leg or foot	6.26547e-2	265	8269
+Breast-MammaryTissue	X288.2	1.409	2.92824e-6	STAG3	Elevated white blood cell count	1.20226e-3	664	5851
+Brain-Cortex	X912	8.83803	2.93887e-6	RSG1	Insect bite	1.65325e-3	29	8855
+Colon-Transverse	X327.41	-7.64089	2.96127e-6	SNCG	Organic or persistent insomnia	3.95526e-3	32	6920
+Ovary	X612	0.355907	2.97313e-6	PWWP2B	Breast conditions, congenital or relating to hormones	1.11671e-1	62	8140
+Artery-Aorta	X284	-14.1612	2.97366e-6	SYNC	Aplastic anemia	4.70237e-3	504	4684
+Brain-CerebellarHemisphere	X312	-4.59682	2.99304e-6	STUB1	Conduct disorders	1.17580e-2	46	8646
+Ovary	X536.8	4.88676	3.00889e-6	SGSH	Dyspepsia and other specified disorders of function of stomach	2.45361e-2	125	7579
+Adipose-Subcutaneous	X480.11	-44.0385	3.01203e-6	RPL41	Pneumococcal pneumonia	1.82306e-2	37	6217
+Esophagus-GastroesophagealJunction	X596.1	11.2281	3.03535e-6	PGBD2	Bladder neck obstruction	4.40058e-2	51	8074
+Artery-Aorta	X317.1	-1.48534	3.05985e-6	SNRPB2	Alcoholism	7.20068e-2	184	7008
+Cells-EBV-transformedlymphocytes	X480.12	5.60883	3.15890e-6	POLR2L	Pseudomonal pneumonia	8.29343e-3	105	6217
+Testis	X711	2.75405	3.19597e-6	PWWP2B	Arthropathy associated with infections	2.31435e-2	108	7311
+Brain-Hippocampus	X352.2	0.0196467	3.22871e-6	PRPH2	Facial nerve disorders [CN7]	1.13774e-1	68	7504
+Skin-NotSunExposed-Suprapubic	X690	-16.7472	3.26893e-6	PDE11A	Erythematosquamous dermatosis	6.00658e-3	97	7590
+Skin-NotSunExposed-Suprapubic	X690.1	-16.7472	3.26893e-6	PDE11A	Seborrheic dermatitis	6.00658e-3	97	7590
+SmallIntestine-TerminalIleum	X523.3	-2.95057	3.30596e-6	PEA15	Periodontitis (acute or chronic)	1.08572e-2	43	8243
+Breast-MammaryTissue	X379.2	3.1583	3.32363e-6	PUSL1	Disorders of vitreous body	5.44144e-3	301	7801
+Nerve-Tibial	X338.2	0.535604	3.35280e-6	PRDM15	Chronic pain	3.24764e-1	311	7363
+SmallIntestine-TerminalIleum	X615	-1.29014	3.42768e-6	PCGF2	Endometriosis	3.08887e-2	50	8581
+Brain-Putamen-basalganglia	X367.8	-0.656853	3.43408e-6	PKP3	Hypermetropia	6.48783e-2	24	8335
+Esophagus-GastroesophagealJunction	X264.9	-1.8133	3.45066e-6	NUP160	Lack of normal physiological development, unspecified	7.85804e-2	39	6138
+Cells-EBV-transformedlymphocytes	X291.4	-36.7784	3.47801e-6	SNCG	Specific nonpsychotic mental disorders due to brain damage	1.65031e-2	22	6654
+Breast-MammaryTissue	X539	13.6601	3.48099e-6	PAX9	Bariatric surgery	3.53558e-3	157	8939
+Brain-Putamen-basalganglia	X380.1	7.21929	3.54776e-6	PRRC1	Otitis externa	6.07176e-3	93	8399
+Skin-SunExposed-Lowerleg	X165.1	-0.955333	3.60189e-6	PIK3C3	Cancer of bronchus; lung	7.04748e-2	308	8627
+Brain-Nucleusaccumbens-basalganglia	X622.1	0.0170492	3.60539e-6	RARS	Polyp of corpus uteri	1.57587e-3	37	8951
+AdrenalGland	X292.3	-9.1555	3.64239e-6	SLC7A2	Memory loss	2.24369e-2	246	6654
+Brain-Anteriorcingulatecortex-BA24	X411.2	-0.739984	3.69716e-6	POLR1D	Myocardial infarction	1.25691e-1	845	5786
+Brain-FrontalCortex-BA9	X597.2	-7.51573	3.77788e-6	PTPRH	Urinary complications NEC	1.83904e-3	49	8074
+Brain-Anteriorcingulatecortex-BA24	X362.27	-0.139682	3.77936e-6	PPHLN1	Drusen (degenerative) of retina	1.17271e-1	40	7724
+Esophagus-Muscularis	X495	-1.813	3.82200e-6	RIC3	Asthma	1.13685e-3	688	6820
+Brain-FrontalCortex-BA9	X187	-0.384165	3.86343e-6	ST13	Cancer of other male genital organs	7.13147e-2	34	7682
+Ovary	X560.3	-0.139559	3.88741e-6	SLC16A9	Peritoneal or intestinal adhesions	6.70723e-3	44	5956
+Pancreas	X618.1	-5.74233	3.90111e-6	NFYB	Prolapse of vaginal walls	4.55805e-3	155	8882
+Pituitary	X370.1	-48.5418	3.90985e-6	NAT8L	Corneal ulcer	2.87956e-2	23	7798
+Muscle-Skeletal	X296.1	2.66956	3.91296e-6	NDNF	Bipolar	6.02588e-2	215	5392
+Brain-Hippocampus	X430.3	0.0289429	3.98152e-6	RASD1	Subdural hemorrhage	1.18567e-1	79	6934
+Heart-LeftVentricle	X242.2	-19.0615	3.99757e-6	STIM2	Toxic multinodular goiter	1.41063e-3	27	7001
+Brain-FrontalCortex-BA9	X597.8	-14.0717	4.04948e-6	SLAMF8	Urethral hypermobility/ISD	3.81416e-2	61	8074
+Pancreas	X275.5	-0.561733	4.06152e-6	POLR2J3	Disorders of calcium/phosphorus metabolism	8.00174e-2	485	7588
+Lung	X536.8	49.8157	4.06556e-6	SGSH	Dyspepsia and other specified disorders of function of stomach	1.43546e-2	125	7579
+Skin-NotSunExposed-Suprapubic	X536.8	2.15173	4.06556e-6	SGSH	Dyspepsia and other specified disorders of function of stomach	1.51922e-1	125	7579
+Cells-Transformedfibroblasts	X477	1.25926	4.10404e-6	PRDM15	Epistaxis or throat hemorrhage	1.51056e-1	148	6193
+Testis	X427.61	26.6443	4.11887e-6	PROCR	Supraventricular premature beats	8.02520e-3	20	4456
+Muscle-Skeletal	X589	-6.98666	4.12698e-6	RNF122	Abnormal results of function study of kidney	1.52061e-3	50	5644
+Artery-Aorta	X722	1.40076	4.14835e-6	PARP4	Intervertebral disc disorders	5.70185e-3	800	6852
+Esophagus-GastroesophagealJunction	X713.5	-5.66738	4.15482e-6	OXCT2	Arthropathy associated with neurological disorders	2.54480e-3	58	7311
+AdrenalGland	X536.8	1.7454	4.16651e-6	SGSH	Dyspepsia and other specified disorders of function of stomach	1.87780e-1	125	7579
+Lung	X512	-1.34172	4.19186e-6	SLC25A16	Other symptoms of respiratory system	3.54298e-2	4237	3702
+Testis	X81.12	6.72822	4.19273e-6	SCNN1D	Chronic graft-versus-host disease	2.03526e-2	24	7508
+Cells-EBV-transformedlymphocytes	X454.11	-1.10736	4.20365e-6	PLEKHA7	Varicose veins of lower extremity, symptomtic	2.44369e-2	66	6144
+Colon-Transverse	X733.4	1.36607	4.21096e-6	RAD51C	Aseptic necrosis of bone	1.04641e-1	109	8372
+Breast-MammaryTissue	X681	-0.37117	4.28524e-6	RPL29	Superficial cellulitis and abscess	1.35226e-1	1207	6905
+Colon-Transverse	X374.6	-1.55921	4.34601e-6	PPA2	Dermatochalasis	1.19014e-1	94	7798
+Spleen	X302	-4.89252	4.34879e-6	PLEKHN1	Sexual and gender identity disorders	3.40950e-2	25	5392
+Brain-Cortex	X386.2	1.9089	4.36438e-6	SSB	Peripheral or central vertigo	5.08493e-2	120	7565
+Brain-Putamen-basalganglia	X427.42	-3.83811	4.37124e-6	SECISBP2	Cardiac arrest	2.20791e-3	99	4456
+Cells-Transformedfibroblasts	X283	1.03088	4.39509e-6	SPTLC3	Acquired hemolytic anemias	3.85349e-1	39	4684
+Pituitary	X385	12.7915	4.43250e-6	RABGGTA	Other disorders of middle ear and mastoid	3.08146e-2	38	8088
+Brain-Nucleusaccumbens-basalganglia	X785	0.422818	4.49111e-6	PRRG4	Abdominal pain	4.17379e-2	2827	5246
+Esophagus-Muscularis	X681	-1.31392	4.54469e-6	RERE	Superficial cellulitis and abscess	3.10407e-2	1207	6905
+Stomach	X290	-1.54064	4.56527e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	3.23403e-2	474	6654
+Artery-Aorta	X713.5	-2.29576	4.58090e-6	PPA2	Arthropathy associated with neurological disorders	4.42243e-2	58	7311
+Thyroid	X519.1	18.4963	4.60128e-6	SPAG4	Tracheostomy complications	6.51970e-3	25	8048
+Nerve-Tibial	X426.9	0.782647	4.64728e-6	SERP1	Cardiac pacemaker/device in situ	8.92658e-2	637	4456
+Brain-Putamen-basalganglia	X286.4	0.00877613	4.69841e-6	POLE3	Acquired coagulation factor deficiency	9.23881e-2	36	5981
+Artery-Coronary	X771	4.6186	4.71160e-6	NPPA	Musculoskeletal symptoms referable to limbs	4.51653e-2	141	7238
+Pancreas	X587	62.5104	4.73252e-6	SLC47A2	Kidney replaced by transpant	2.38639e-2	672	5644
+Esophagus-Mucosa	X977	50.2412	4.73747e-6	SLFN11	Personal history of allergy to medicinal agents	1.05807e-2	30	6561
+Esophagus-Muscularis	X755	-1.86654	4.84888e-6	PHACTR4	Congenital anomalies of limbs	2.66701e-1	36	8811
+Liver	X698	-1.97281	4.86203e-6	SULT1C4	Pruritus and related conditions	2.24098e-2	139	8730
+Colon-Transverse	X619.4	-7.37488	4.86436e-6	NDRG2	Noninflammatory disorders of vagina	1.82534e-3	78	8667
+Pancreas	X290	-1.56873	4.89479e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	3.95313e-2	474	6654
+Ovary	X728.71	-7.71833	4.89695e-6	PPP1R27	Contracture of palmar fascia [Dupuytren's disease]	6.78970e-3	33	6730
+Adipose-Subcutaneous	X573.7	-2.40156	4.93234e-6	PHACTR2	Abnormal results of function study of liver	2.27586e-2	288	6421
+Brain-Hypothalamus	X580.32	2.80665	4.95662e-6	NCSTN	Nephritis and nephropathy with pathological lesion	3.02402e-2	114	5644
+Muscle-Skeletal	X612.2	-6.27247	5.00667e-6	NISCH	Hypertrophy of breast (Gynecomastia)	1.54402e-2	50	8140
+Esophagus-GastroesophagealJunction	X712	-1.7145	5.01963e-6	PMEPA1	Infective connective tissue disorders	1.30367e-3	32	7311
+Stomach	X447	-28.7558	5.03530e-6	SPSB1	Other disorders of arteries and arterioles	3.67822e-3	102	6676
+Brain-Cerebellum	X597.8	-6.89003	5.08767e-6	SHC1	Urethral hypermobility/ISD	6.00172e-2	61	8074
+AdrenalGland	X568.1	-9.81874	5.12128e-6	PABPC4	Peritoneal adhesions (postoperative) (postinfection)	8.72090e-3	96	7242
+Brain-Hippocampus	X686	8.84983	5.16236e-6	NPAS1	Other local infections of skin and subcutaneous tissue	3.35458e-2	219	6905
+Esophagus-GastroesophagealJunction	X362.9	2.46233	5.16364e-6	SLC24A4	Retinal edema	1.16946e-2	48	7724
+Artery-Tibial	X297	0.919623	5.20194e-6	PCGF2	Suicidal ideation or attempt	2.38645e-1	83	5392
+Skin-SunExposed-Lowerleg	X585.31	1.96794	5.30572e-6	PRSS16	Renal dialysis	2.86391e-3	454	5644
+Brain-FrontalCortex-BA9	X627.1	2.94383	5.35845e-6	PUF60	Postmenopausal bleeding	2.67836e-3	87	7657
+Artery-Tibial	X795	-4.62307	5.36250e-6	SOX15	Other and nonspecific abnormal cytological, histological and immunological findings	6.82587e-3	54	8967
+Nerve-Tibial	X381.9	-3.14016	5.39775e-6	SERP1	Otorrhea	8.92658e-2	36	8088
+Spleen	X41.4	-0.668811	5.39867e-6	NPAS1	E. coli	1.64834e-1	345	6607
+Brain-Anteriorcingulatecortex-BA24	X443.9	-1.29844	5.41718e-6	SPDYE2	Peripheral vascular disease, unspecified	4.19630e-2	448	6676
+SmallIntestine-TerminalIleum	X772.2	-6.13915	5.43787e-6	RBM27	Spasm of muscle	1.23343e-3	228	7828
+Cells-Transformedfibroblasts	X795	-4.41421	5.45237e-6	PYCARD	Other and nonspecific abnormal cytological, histological and immunological findings	5.07841e-2	54	8967
+Ovary	X523	1.53198	5.45255e-6	STX4	Gingival and periodontal diseases	2.15478e-2	133	8243
+Heart-LeftVentricle	X747.13	10.9719	5.47136e-6	PIGB	Congenital anomalies of great vessels	6.05363e-3	58	8634
+Skin-SunExposed-Lowerleg	X320	11.3579	5.59640e-6	NID2	Meningitis	2.87170e-2	79	8848
+Brain-CerebellarHemisphere	X362.21	2.52371	5.60103e-6	PLEKHB2	Macular degeneration, dry	3.41037e-2	71	7724
+Pancreas	X372	3.69812	5.63956e-6	SYNGR3	Disorders of conjunctiva	5.92349e-2	34	7798
+Stomach	X447.1	-34.1653	5.68494e-6	SPSB1	Stricture of artery	3.67822e-3	38	6676
+SmallIntestine-TerminalIleum	X71.1	1.28432	5.70384e-6	RPL3L	HIV infection, symptomatic	6.62043e-2	46	7233
+Brain-Cerebellum	X112.3	2.07261	5.76513e-6	SCYL3	Candidiasis of skin and nails	1.22866e-1	47	7391
+Pituitary	X53	7.83749	5.77109e-6	RABGGTA	Herpes zoster	3.08146e-2	145	7233
+Ovary	X526.5	-16.1992	5.80518e-6	RGS3	Inflammatory conditions of jaw	7.53537e-2	20	8243
+Brain-Putamen-basalganglia	X728.1	-12.3034	5.80542e-6	NPR3	Muscular calcification and ossification	9.08939e-2	20	6730
+Brain-Caudate-basalganglia	X531.4	0.908606	5.82173e-6	PGM3	Peptic ulcer, site unspecified	6.23222e-2	81	8568
+Stomach	X751.12	3.03665	5.82552e-6	POLM	Congenital anomalies of male genital organs	8.45922e-2	20	8409
+Brain-CerebellarHemisphere	X361	-0.956253	5.86884e-6	SECISBP2	Retinal detachments and defects	9.49093e-2	83	7724
+Cells-Transformedfibroblasts	X755	-2.31805	5.89068e-6	PHACTR4	Congenital anomalies of limbs	1.64023e-1	36	8811
+Colon-Transverse	X384	-3.78492	5.91686e-6	SLC29A2	Other disorders of tympanic membrane	5.54756e-3	34	8088
+Esophagus-Muscularis	X285.2	-4.82564	5.94422e-6	PTGS1	Anemia of chronic disease	7.32088e-3	877	4684
+Brain-Anteriorcingulatecortex-BA24	X443	-1.18857	6.00810e-6	SPDYE2	Peripheral vascular disease	4.19630e-2	537	6676
+Brain-CerebellarHemisphere	X195.1	0.911719	6.01406e-6	NKAIN4	Malignant neoplasm, other	1.90849e-1	337	6274
+Testis	X367.9	1.90147	6.10749e-6	TARBP2	Blindness and low vision	3.97367e-2	123	8335
+Thyroid	X374.1	-17.445	6.13337e-6	PDLIM5	Ectropion or entropion	2.64795e-3	34	7798
+Heart-AtrialAppendage	X573.5	2.71474	6.16706e-6	PRSS16	Jaundice (not of newborn)	1.29435e-2	163	6421
+Brain-Anteriorcingulatecortex-BA24	X363	-0.145586	6.17946e-6	PPHLN1	Chorioretinal inflammations, scars, and other disorders of choroid	1.17271e-1	26	7724
+Lung	X250.12	2.27518	6.19726e-6	NCR3	Type 1 diabetes with renal manifestations	2.56610e-3	137	4936
+Adipose-Subcutaneous	X585	-0.919739	6.22013e-6	PDPN	Renal failure	2.69337e-2	2332	5644
+Artery-Coronary	X599.9	0.98894	6.24272e-6	PLA2G2C	Other abnormality of urination	7.89399e-2	249	6083
+Colon-Sigmoid	X70.2	-1.38319	6.25041e-6	SRRM2	Viral hepatitis B	7.70030e-3	36	7233
+Brain-Cerebellum	X758.1	3.98884	6.30797e-6	PKDREJ	Chromosomal anomalies	6.29207e-2	21	8947
+AdrenalGland	X259.2	-32.0401	6.31169e-6	PLRG1	Carcinoid syndrome	2.78278e-2	20	7558
+Artery-Coronary	X509.8	8.07026	6.36287e-6	PUS7L	Dependence on respirator [Ventilator] or supplemental oxygen	1.19406e-2	188	5061
+Brain-FrontalCortex-BA9	X286.12	-0.346122	6.41257e-6	ST13	Congenital deficiency of other clotting factors (including factor VII)	7.13147e-2	24	5981
+Artery-Tibial	X790	-4.77673	6.44446e-6	PDLIM5	Nonspecific findings on examination of blood	1.41908e-2	49	7554
+Brain-CerebellarHemisphere	X800.2	1.33753	6.46832e-6	PATZ1	Fracture of unspecified part of femur	4.95442e-2	135	7283
+Thyroid	X250.11	-36.1056	6.49598e-6	PLEKHB2	Type 1 diabetes with ketoacidosis	4.37192e-3	48	4936
+Skin-NotSunExposed-Suprapubic	X281.9	-10.0732	6.53813e-6	SPSB1	Deficiency anemias	1.19516e-2	72	4684
+Lung	X386	4.52301	6.58181e-6	RAI1	Vertiginous syndromes and other disorders of vestibular system	8.82933e-3	160	7565
+Cells-Transformedfibroblasts	X377	5.23938	6.61371e-6	PPP1R13B	Disorders of optic nerve and visual pathways	3.43346e-3	99	7801
+Breast-MammaryTissue	X703	-6.75763	6.64181e-6	SETD4	Diseases of nail, NOS	1.08218e-2	44	8443
+Skin-NotSunExposed-Suprapubic	X588	4.73845	6.66614e-6	SLC4A1AP	Disorders resulting from impaired renal function	4.07607e-2	336	5644
+Artery-Tibial	X871	-2.61294	6.66869e-6	OSBPL3	Open wounds of extremities	1.31288e-2	401	7534
+Pancreas	X297.2	2.58128	6.69610e-6	RPS14	Suicide or self-inflicted injury	3.29891e-3	40	5392
+Heart-AtrialAppendage	X367.9	-2.07782	6.72780e-6	PARP2	Blindness and low vision	1.80713e-2	123	8335
+Brain-Anteriorcingulatecortex-BA24	X174.1	-0.0422171	6.74093e-6	POLR2J	Breast cancer [female]	1.20176e-1	310	8088
+Brain-Caudate-basalganglia	X496.21	-0.00875169	6.76208e-6	SERPINA9	Obstructive chronic bronchitis	5.14428e-1	255	6820
+Skin-NotSunExposed-Suprapubic	X303	-3.62655	6.82443e-6	RNF138	Psychogenic and somatoform disorders	3.55064e-2	67	5392
+Brain-Hypothalamus	X579	-0.970139	6.83317e-6	NKD2	Other symptoms involving abdomen and pelvis	1.15098e-1	452	6905
+Brain-Hypothalamus	X242.1	1.32826	6.88280e-6	OSGEP	Graves' disease	3.16661e-1	63	7001
+Pancreas	X296.1	1.49137	6.89020e-6	NDNF	Bipolar	7.42881e-2	215	5392
+Nerve-Tibial	X556.1	6.46475	6.89794e-6	RREB1	Ulceration of intestine	4.20460e-3	39	5956
+Spleen	X635	6.21407	7.00305e-6	SYNJ1	Hemorrhage during pregnancy; childbirth and postpartum	1.04740e-3	21	8943
+Breast-MammaryTissue	X790.8	-25.6576	7.02853e-6	POLR3GL	Elevated C-reactive protein (CRP)	6.63446e-3	36	7554
+Colon-Transverse	X430.1	1.76749	7.05522e-6	PDIA2	Subarachnoid hemorrhage	8.94472e-2	51	6934
+Brain-Cerebellum	X286.12	38.536	7.11500e-6	PSMC3	Congenital deficiency of other clotting factors (including factor VII)	2.96750e-3	24	5981
+Brain-Cortex	X441.1	-11.7732	7.11514e-6	PPIG	Acute vascular insufficiency of intestine	1.85486e-3	34	6676
+Brain-Caudate-basalganglia	X961.1	-0.0133889	7.15076e-6	SERPINA9	Poisoning/allergy of sulfonamides	5.14428e-1	24	6561
+Testis	X711	-10.2632	7.17542e-6	PCDHGB6	Arthropathy associated with infections	6.55674e-3	108	7311
+Brain-Anteriorcingulatecortex-BA24	X755	9.26308	7.22150e-6	PELP1	Congenital anomalies of limbs	3.40665e-3	36	8811
+Heart-LeftVentricle	X260.22	1.84255	7.23280e-6	SIGIRR	Nutritional marasmus	1.46252e-1	72	6138
+Nerve-Tibial	X562.1	-1.56405	7.28610e-6	TBL3	Diverticulosis	3.28525e-3	569	5956
+AdrenalGland	X287.1	-12.3565	7.29868e-6	PLA2G7	Spontaneous ecchymoses	1.39477e-2	21	5981
+Brain-Anteriorcingulatecortex-BA24	X174.11	-0.0420898	7.34559e-6	POLR2J	Malignant neoplasm of female breast	1.20176e-1	307	8088
+Artery-Coronary	X306	5.38033	7.39877e-6	STAG3	Other mental disorder	2.77576e-2	34	5392
+Esophagus-GastroesophagealJunction	X585.31	1.40412	7.41803e-6	SYNC	Renal dialysis	1.19940e-2	454	5644
+Thyroid	X394	-1.38807	7.45451e-6	RASD1	Rheumatic disease of the heart valves	4.54036e-2	333	7079
+Brain-Hippocampus	X302	4.26769	7.47246e-6	PTPRB	Sexual and gender identity disorders	5.24762e-2	25	5392
+Heart-AtrialAppendage	X531.2	-9.10571	7.54628e-6	REEP3	Gastric ulcer	2.43727e-2	96	8568
+Skin-NotSunExposed-Suprapubic	X297	1.3125	7.54884e-6	PCGF2	Suicidal ideation or attempt	1.67797e-1	83	5392
+Thyroid	X324	-4.03771	7.57162e-6	PKMYT1	Other CNS infection and poliomyelitis	9.10163e-3	61	8848
+Brain-Anteriorcingulatecortex-BA24	X224	1.49175	7.59674e-6	POLR2E	Benign neoplasm of eye	1.45569e-1	24	8520
+Artery-Coronary	X8.5	1.31912	7.64654e-6	PSEN1	Bacterial enteritis	2.57891e-2	390	8317
+Lung	X724	2.19675	7.69137e-6	PYCARD	Other and unspecified disorders of back	3.88772e-2	46	6852
+Spleen	X743.2	-0.91273	7.70953e-6	OMA1	Pathologic fracture	1.59763e-1	218	6588
+Brain-Hypothalamus	X41.4	5.80977	7.70972e-6	SOX12	E. coli	3.78809e-2	345	6607
+Pituitary	X316	9.27858	7.75444e-6	SIGLEC1	Substance addiction and disorders	1.28549e-2	387	7008
+Cells-EBV-transformedlymphocytes	X224.1	-3.49957	7.79471e-6	RB1CC1	Benign neoplasm of eye, uveal	2.39826e-2	21	8520
+Cells-EBV-transformedlymphocytes	X912	9.32135	7.82350e-6	QSER1	Insect bite	4.04855e-3	29	8855
+Heart-LeftVentricle	X290	-2.06309	7.88894e-6	NUP133	Delirium dementia and amnestic and other cognitive disorders	1.78957e-2	474	6654
+Cells-EBV-transformedlymphocytes	X454.1	-0.92625	7.91168e-6	PLEKHA7	Varicose veins of lower extremity	2.44369e-2	94	6144
+Heart-AtrialAppendage	X253.2	8.92811	7.92396e-6	SLC10A6	Pituitary hypofunction	2.84197e-3	45	7558
+Heart-AtrialAppendage	X198.5	-41.5803	7.93639e-6	PARD3	Secondary malignancy of brain/spine	1.44835e-2	142	6274
+Thyroid	X577.3	6.24063	7.96034e-6	NR5A2	Cyst and pseudocyst of pancreas	1.23606e-3	70	8624
+Skin-SunExposed-Lowerleg	X586.2	5.3478	8.01915e-6	SLC25A11	Cyst of kidney, acquired	2.62235e-3	140	5644
+Artery-Coronary	X513.4	15.2778	8.03184e-6	SYNC	Hyperventilation	2.95843e-2	264	7861
+Brain-Hypothalamus	X433.5	1.19359	8.09026e-6	PHF13	Cerebral aneurysm	3.22417e-2	94	6934
+Ovary	X378.1	-12.2489	8.11845e-6	PPP1R3E	Strabismus (not specified as paralytic)	3.73165e-2	42	7801
+Ovary	X250.13	1.60032	8.15986e-6	PRSS16	Type 1 diabetes with ophthalmic manifestations	1.43686e-1	98	4936
+Brain-Putamen-basalganglia	X297	-28.4686	8.21368e-6	SSBP1	Suicidal ideation or attempt	1.08262e-2	83	5392
+Brain-Cerebellum	X758	3.67332	8.21845e-6	PKDREJ	Chromosomal anomalies and genetic disorders	6.29207e-2	31	8947
+Cells-EBV-transformedlymphocytes	X961.1	-13.3702	8.29885e-6	NVL	Poisoning/allergy of sulfonamides	2.66368e-2	24	6561
+Esophagus-GastroesophagealJunction	X250.21	2.40247	8.35361e-6	PIM3	Type 2 diabetes with ketoacidosis	3.70517e-2	31	4936
+Artery-Coronary	X530.9	-42.7554	8.35543e-6	P2RX5	Heartburn	8.43962e-2	53	5130
+Muscle-Skeletal	X612	-5.66563	8.39023e-6	NISCH	Breast conditions, congenital or relating to hormones	1.54402e-2	62	8140
+Spleen	X686	10.9792	8.40309e-6	ODF3L2	Other local infections of skin and subcutaneous tissue	2.47574e-2	219	6905
+Stomach	X574.2	-2.41633	8.42582e-6	SPDYE2	Calculus of bile duct	2.44915e-2	67	8056
+Ovary	X590	0.941479	8.42802e-6	OTUD3	Pyelonephritis	6.56728e-2	254	4238
+Cells-EBV-transformedlymphocytes	X447	0.734096	8.44642e-6	SLC2A14	Other disorders of arteries and arterioles	3.27595e-1	102	6676
+Artery-Coronary	X8.52	1.32445	8.44726e-6	PSEN1	Intestinal infection due to C. difficile	2.57891e-2	383	8317
+Esophagus-GastroesophagealJunction	X686	-0.103823	8.47176e-6	PISD	Other local infections of skin and subcutaneous tissue	4.14524e-2	219	6905
+Brain-Cortex	X211	1.82769	8.49258e-6	SSR1	Benign neoplasm of other parts of digestive system	5.76025e-2	72	8200
+Brain-FrontalCortex-BA9	X379.3	0.11357	8.51186e-6	PLA2G7	Aphakia and other disorders of lens	6.23994e-2	20	7801
+Brain-Putamen-basalganglia	X569.2	-1.18235	8.53754e-6	POFUT1	Gastrointestinal complications	1.75410e-3	267	7242
+Artery-Coronary	X578.1	3.55814	8.55370e-6	SGSH	Hematemesis	1.95221e-2	87	6905
+Cells-EBV-transformedlymphocytes	X728.7	-0.920657	8.55383e-6	RBM38	Fasciitis	1.48894e-1	114	6730
+Brain-Hypothalamus	X379.3	8.16154	8.57812e-6	PTPRH	Aphakia and other disorders of lens	3.67644e-2	20	7801
+Brain-Hippocampus	X747	-1.1935	8.64754e-6	NUTM2B	Cardiac and circulatory congenital anomalies	5.23406e-2	267	8634
+Brain-Cerebellum	X817	2.68698	8.64946e-6	NPAS1	Concussion	8.30143e-3	29	8639
+Thyroid	X367.9	2.50967	8.65432e-6	SLC46A1	Blindness and low vision	1.22364e-2	123	8335
+Ovary	X523.31	3.08922	8.67397e-6	STX4	Acute periodontitis	2.15478e-2	28	8243
+Lung	X279.11	-5.94317	8.68855e-6	PDIA2	Deficiency of humoral immunity	2.31265e-3	57	8183
+Esophagus-GastroesophagealJunction	X281.1	-3.41641	8.71008e-6	SPTLC2	Megaloblastic anemia	2.74575e-3	114	4684
+Nerve-Tibial	X189.1	-13.4633	8.71218e-6	PTK7	Cancer of kidney and renal pelvis	2.98238e-3	267	8503
+Cells-Transformedfibroblasts	X578.1	-3.96112	8.82304e-6	PYCARD	Hematemesis	5.07841e-2	87	6905
+Esophagus-GastroesophagealJunction	X580.4	-5.84902	8.84043e-6	SETD2	Renal sclerosis, NOS	2.24784e-3	52	5644
+Skin-SunExposed-Lowerleg	X165	-0.905439	8.84590e-6	PIK3C3	Cancer within the respiratory system	7.04748e-2	317	8627
+Brain-Caudate-basalganglia	X726.1	-0.907523	8.86765e-6	RBM48	Enthesopathy	1.72681e-1	424	6730
+Artery-Aorta	X204	-13.1702	8.89431e-6	SYNC	Leukemia	4.70237e-3	430	8016
+Brain-FrontalCortex-BA9	X480.5	5.61316	8.90710e-6	RBM28	Bronchopneumonia and lung abscess	1.80610e-3	71	6217
+Skin-NotSunExposed-Suprapubic	X728	4.48287	9.00712e-6	SH3BGRL2	Disorders of muscle, ligament, and fascia	9.74943e-3	27	6730
+Colon-Sigmoid	X573	2.4878	9.03831e-6	TARBP1	Other disorders of liver	6.37264e-2	252	6421
+Pituitary	X965	-3.46231	9.14471e-6	TBC1D17	Poisoning by analgesics, antipyretics, and antirheumatics	5.48047e-2	30	6561
+Brain-CerebellarHemisphere	X626.2	27.5443	9.34607e-6	SPESP1	Dysmenorrhea	2.97664e-2	45	7657
+Brain-Anteriorcingulatecortex-BA24	X714.1	-1.68839	9.37746e-6	RPL3L	Rheumatoid arthritis	5.93443e-3	310	6807
+Ovary	X200.1	-0.0272933	9.39112e-6	NME7	Polycythemia vera	4.91142e-1	46	7977
+Thyroid	X523.31	-71.9468	9.46922e-6	RPL41	Acute periodontitis	3.60955e-3	28	8243
+Brain-Cerebellum	X441	-2.77635	9.49207e-6	TARBP2	Vascular insufficiency of intestine	1.42018e-3	75	6676
+Spleen	X619.2	6.07836	9.52256e-6	SYNJ1	Disorders of uterus, NEC	1.04740e-3	23	8667
+Brain-Nucleusaccumbens-basalganglia	X800	4.32363	9.55387e-6	PSD3	Fracture of lower limb	1.87878e-2	506	7283
+Artery-Tibial	X751.12	8.5543	9.56054e-6	NUP62	Congenital anomalies of male genital organs	2.72011e-3	20	8409
+Esophagus-Mucosa	X159.3	3.10074	9.56205e-6	REEP3	Malignant neoplasm of gallbladder and extrahepatic bile ducts	2.15071e-2	34	8073
+Artery-Aorta	X284.1	-15.0794	9.59326e-6	SYNC	Pancytopenia	4.70237e-3	370	4684
+Skin-SunExposed-Lowerleg	X965	13.1354	9.63709e-6	NID2	Poisoning by analgesics, antipyretics, and antirheumatics	2.87170e-2	30	6561
+Skin-NotSunExposed-Suprapubic	X726.3	-11.4845	9.70446e-6	SDHA	Bursitis	1.63342e-3	119	6730
+Muscle-Skeletal	X512.7	-1.05623	9.73897e-6	SLC25A16	Shortness of breath	3.56068e-2	2391	3702
+Pancreas	X159	7.24986	9.77690e-6	SNAPC3	Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum	1.32868e-2	157	8073
+Nerve-Tibial	X726.3	10.7998	9.78351e-6	SLC9A3	Bursitis	6.67167e-3	119	6730
+Testis	X711.1	3.04203	9.78449e-6	PWWP2B	Pyogenic arthritis	2.31435e-2	79	7311
+Nerve-Tibial	X475	2.34656	9.86692e-6	SERP2	Chronic sinusitis	1.56528e-2	589	6193
+Brain-Putamen-basalganglia	X379.3	-1.49128	9.86706e-6	PTPRH	Aphakia and other disorders of lens	2.11316e-2	20	7801
+Skin-NotSunExposed-Suprapubic	X303.4	-3.93955	9.88108e-6	RNF138	Somatoform disorder	3.55064e-2	50	5392
+Ovary	X444.1	-0.128376	9.92515e-6	SLC16A9	Arterial embolism and thrombosis of lower extremity artery	6.70723e-3	45	6676
+Cells-Transformedfibroblasts	X426.91	0.817294	9.95507e-6	RASA3	Cardiac pacemaker in situ	1.24209e-1	444	4456
+Skin-NotSunExposed-Suprapubic	X394.7	2.60693	9.97572e-6	SDSL	Disease of tricuspid valve	2.62979e-2	156	7079
+Brain-Anteriorcingulatecortex-BA24	X601.3	-114860000000000	0.00000e+0	UBB	Orchitis and epididymitis	1.42832e-1	33	7335
+Brain-Anteriorcingulatecortex-BA24	X686.2	480098000000000	0.00000e+0	UBB	Impetigo	1.42832e-1	20	6905
+Brain-Anteriorcingulatecortex-BA24	X287.1	848780000000000	0.00000e+0	UBB	Spontaneous ecchymoses	1.42832e-1	21	5981
+Brain-Anteriorcingulatecortex-BA24	X180.1	658488000000000	0.00000e+0	UBB	Cervical cancer	1.42832e-1	42	7989
+Brain-Anteriorcingulatecortex-BA24	X733	1.44748e15	0.00000e+0	UBB	Other disorders of bone and cartilage	1.42832e-1	52	8372
+Brain-Anteriorcingulatecortex-BA24	X686.1	1.13389e15	0.00000e+0	UBB	Carbuncle and furuncle	1.42832e-1	42	6905
+Brain-Anteriorcingulatecortex-BA24	X112.3	1.27833e15	0.00000e+0	UBB	Candidiasis of skin and nails	1.42832e-1	47	7391
+Brain-Anteriorcingulatecortex-BA24	X592.11	452060000000000	0.00000e+0	UBB	Acute cystitis	1.42832e-1	21	5793
+Brain-Caudate-basalganglia	X619.2	1447630000000	0.00000e+0	UQCRC1	Disorders of uterus, NEC	9.77612e-2	23	8667
+Cells-EBV-transformedlymphocytes	X705.1	-1.94122e16	0.00000e+0	ZNF287	Dyshidrosis	6.62725e-2	20	8052
+Cells-EBV-transformedlymphocytes	X717	-5.78596e15	0.00000e+0	ZNF287	Polymyalgia Rheumatica	6.62725e-2	58	9052
+Nerve-Tibial	X613.1	2.1297e16	0.00000e+0	TMEM53	Inflammatory disease of breast	4.34412e-3	33	8018
+Nerve-Tibial	X175	-1.24457e16	0.00000e+0	TMEM53	Acquired absence of breast	4.34412e-3	83	8088
+Ovary	X281.11	6.24749e15	0.00000e+0	TMEM178A	Pernicious anemia	3.03286e-2	52	4684
+Brain-Hypothalamus	X250.12	13.1577	6.22009e-14	VARS	Type 1 diabetes with renal manifestations	8.02863e-3	137	4936
+Brain-Hypothalamus	X250.1	5.57141	1.26480e-13	VARS	Type 1 diabetes	8.02863e-3	816	4936
+Brain-Hypothalamus	X250.13	14.8993	2.19980e-12	VARS	Type 1 diabetes with ophthalmic manifestations	8.02863e-3	98	4936
+Brain-Hypothalamus	X250.14	10.7346	2.12930e-11	VARS	Type 1 diabetes with neurological manifestations	8.02863e-3	168	4936
+Brain-Hypothalamus	X250.7	7.85584	5.37069e-11	VARS	Diabetic retinopathy	8.02863e-3	274	4644
+Adipose-Subcutaneous	X751.3	23.3286	9.88914e-10	VPS4A	Obstructive genitourinary defect	4.10571e-3	34	8409
+Testis	X974	-56.7337	3.30869e-9	TMEM123	Poisoning by water, mineral, and uric acid metabolism drugs	4.55998e-2	73	6561
+Brain-Hypothalamus	X250.22	5.04373	1.05617e-8	VARS	Type 2 diabetes with renal manifestations	8.02863e-3	547	4936
+Colon-Sigmoid	X634	3.0549	3.67362e-8	TET2	Miscarriage; stillbirth	3.79861e-2	31	8943
+Brain-Nucleusaccumbens-basalganglia	X277.7	2.23853	4.31210e-8	TRIM62	Dysmetabolic syndrome X	6.99013e-3	80	8608
+Brain-Hypothalamus	X250.3	4.33145	4.32209e-8	VARS	Insulin pump user	8.02863e-3	680	4936
+Colon-Sigmoid	X291.4	3.53457	5.82096e-8	TTC8	Specific nonpsychotic mental disorders due to brain damage	5.63293e-3	22	6654
+Brain-Hypothalamus	X250.2	2.56796	1.16911e-7	VARS	Type 2 diabetes	8.02863e-3	2634	4936
+Thyroid	X425.11	-1.67981	1.27532e-7	ZNF33B	Hypertrophic obstructive cardiomyopathy	1.26107e-1	40	7787
+Colon-Sigmoid	X352.1	-0.0349344	1.33951e-7	UNC45A	Trigeminal nerve disorders [CN5]	8.09685e-2	71	7504
+Brain-FrontalCortex-BA9	X755	40.323	2.45494e-7	TNFRSF11B	Congenital anomalies of limbs	3.35824e-2	36	8811
+Brain-Cortex	X292.2	21.6698	2.61393e-7	TET2	Mild cognitive impairment	8.81461e-3	21	6654
+Brain-Anteriorcingulatecortex-BA24	X531.3	-1.12281	2.72513e-7	ZNF131	Duodenal ulcer	8.16909e-2	53	8568
+Heart-AtrialAppendage	X535.2	24.7252	2.83438e-7	TPD52L3	Atrophic gastritis	3.04787e-2	34	7579
+Brain-Cerebellum	X592.11	-7.54169	3.07700e-7	TMEM165	Acute cystitis	4.61293e-2	21	5793
+Brain-Anteriorcingulatecortex-BA24	X259.2	-1.39889	3.43380e-7	ZNF131	Carcinoid syndrome	8.16909e-2	20	7558
+Thyroid	X426	-1.67502	3.78652e-7	ZRANB1	Cardiac conduction disorders	1.08850e-3	1245	4456
+Skin-SunExposed-Lowerleg	X370.1	-4.99196	3.95076e-7	ZNF573	Corneal ulcer	2.83651e-3	23	7798
+Heart-LeftVentricle	X454	1.70825	4.13661e-7	VAMP2	Varicose veins	4.58475e-2	119	6144
+Colon-Transverse	X362.21	-34.5954	4.58186e-7	ZBTB14	Macular degeneration, dry	2.80200e-3	71	7724
+Brain-Hypothalamus	X250	2.28371	5.15781e-7	VARS	Diabetes mellitus	8.02863e-3	3220	4936
+Brain-Anteriorcingulatecortex-BA24	X81.12	-9.88481	5.57671e-7	VPS35	Chronic graft-versus-host disease	2.74707e-3	24	7508
+Muscle-Skeletal	X809	-1.15918	8.54958e-7	TRIM62	Fracture of unspecified bones	9.36586e-2	415	7283
+Brain-FrontalCortex-BA9	X353.1	-3.96046	9.24921e-7	ZER1	Nerve plexus lesions	2.21462e-2	20	7504
+Cells-EBV-transformedlymphocytes	X480.12	2.77476	9.55832e-7	TSPAN4	Pseudomonal pneumonia	5.97729e-2	105	6217
+Heart-LeftVentricle	X560.4	-2.55031	1.05240e-6	VAMP4	Other intestinal obstruction	1.69394e-3	296	5956
+Stomach	X250.14	-2.91186	1.12375e-6	VARS	Type 1 diabetes with neurological manifestations	1.32362e-2	168	4936
+Cells-EBV-transformedlymphocytes	X364.2	5.40595	1.12453e-6	TXN2	Corneal edema	9.99642e-3	20	7724
+Brain-CerebellarHemisphere	X539	1.79201	1.21118e-6	WTAP	Bariatric surgery	2.64792e-2	157	8939
+Liver	X313.1	24.9775	1.24691e-6	ZSCAN9	Attention deficit hyperactivity disorder	5.08079e-2	49	8646
+Brain-Hippocampus	X622.1	5.5113	1.36497e-6	ZC3H12C	Polyp of corpus uteri	8.48183e-3	37	8951
+Pancreas	X574.3	2.80784	1.40433e-6	ZNF773	Cholecystitis without cholelithiasis	2.81967e-2	139	8056
+Pituitary	X526.5	6.9894	1.45519e-6	TNC	Inflammatory conditions of jaw	3.83607e-3	20	8243
+Esophagus-Mucosa	X270.38	-3.32301	1.54000e-6	VOPP1	Other specified disorders of plasma protein metabolism	6.76288e-3	42	8239
+Brain-Anteriorcingulatecortex-BA24	X592.11	1.72908	1.57390e-6	TDRKH	Acute cystitis	8.79381e-2	21	5793
+Esophagus-Mucosa	X362.6	-6.03478	1.62164e-6	VARS	Peripheral retinal degenerations	7.04320e-3	27	7724
+Brain-Hippocampus	X172.1	-11.2016	1.77995e-6	VDR	Melanomas of skin, dx or hx	2.03121e-1	216	7391
+Esophagus-Mucosa	X705.8	-4.78626	1.81655e-6	VARS	Hyperhidrosis	7.04320e-3	50	8052
+Brain-Anteriorcingulatecortex-BA24	X227	-2.86802	1.88275e-6	TRPM4	Benign neoplasm of other endocrine glands and related structures	6.63753e-3	86	8574
+Colon-Sigmoid	X575.8	0.977671	1.92564e-6	TPD52L3	Other disorders of biliary tract	3.16796e-2	127	8056
+Brain-Caudate-basalganglia	X625.1	4.41711	1.97236e-6	TXNL4A	Dyspareunia	5.27181e-3	32	8364
+Heart-AtrialAppendage	X414.2	-9.83263	2.03184e-6	ZMAT3	ASCVD	5.36095e-3	94	5786
+Heart-LeftVentricle	X110	1.1714	2.03304e-6	VAMP2	Dermatophytosis / Dermatomycosis	4.58475e-2	398	7391
+Esophagus-Muscularis	X416	0.70599	2.06974e-6	WDR72	Cardiomegaly	1.28516e-1	865	6945
+Stomach	X276.12	-1.60321	2.13593e-6	VPS26A	Hyposmolality and/or hyponatremia	1.36128e-2	704	4600
+Cells-Transformedfibroblasts	X340.1	68.5291	2.14112e-6	TMEM238	Migrain with aura	6.79837e-3	44	8495
+Lung	X241	-4.23713	2.19796e-6	ZNF451	Nontoxic nodular goiter	3.86266e-3	244	7001
+SmallIntestine-TerminalIleum	X795.8	-1.17407	2.20222e-6	ZSWIM7	Abnormal tumor markers	1.33645e-1	79	8967
+Heart-AtrialAppendage	X731	-31.2353	2.20788e-6	UBAP2	Osteitis deformans and osteopathies associated with other disorders classified elsewhere	3.63839e-2	23	8372
+Esophagus-GastroesophagealJunction	X416	1.56377	2.21080e-6	WDR72	Cardiomegaly	2.49387e-2	865	6945
+Adipose-Subcutaneous	X590	-1.1824	2.22570e-6	ZNF14	Pyelonephritis	9.65402e-2	254	4238
+Heart-LeftVentricle	X378.5	-17.4304	2.28280e-6	TIMD4	Paralytic strabismus	9.70055e-3	28	7801
+Brain-Hippocampus	X727.7	-2.32248	2.28997e-6	ZNF615	Contracture of tendon (sheath)	3.59728e-2	30	6730
+Heart-LeftVentricle	X454.1	1.75974	2.30512e-6	VAMP2	Varicose veins of lower extremity	4.58475e-2	94	6144
+Cells-EBV-transformedlymphocytes	X500	76.9007	2.43570e-6	TM4SF4	Lung disease due to external agents	4.66725e-2	35	5061
+Testis	X253.7	5.71122	2.53422e-6	UNKL	Other disorders of neurohypophysis	1.78309e-2	22	7558
+Esophagus-Muscularis	X742.9	5.02497	2.55705e-6	ZDHHC8	Other derangement of joint	3.16265e-3	94	7526
+Cells-Transformedfibroblasts	X250.25	5.59919	2.63992e-6	WDR72	Diabetes type 2 with peripheral circulatory disorders	1.96855e-2	148	4936
+Thyroid	X599	3.69687	2.65080e-6	ZNF616	Other symptoms/disorders or the urinary system	1.42359e-3	1637	6083
+Ovary	X555.2	-1.98131	2.65853e-6	ZNF211	Ulcerative colitis	1.25344e-2	104	5956
+Artery-Coronary	X687.1	3.01805	2.69658e-6	ZFAND4	Rash and other nonspecific skin eruption	1.26924e-3	718	6861
+Colon-Sigmoid	X701	-3.02169	2.71972e-6	VDAC2	Other hypertrophic and atrophic conditions of skin	1.99698e-3	370	7128
+Nerve-Tibial	X560.3	2.00838	2.76549e-6	WNT3	Peritoneal or intestinal adhesions	1.08982e-1	44	5956
+Brain-Hypothalamus	X735	2.79525	2.94761e-6	ZNF385A	Acquired foot deformities	1.76918e-3	351	7256
+Pituitary	X386.2	-2.42793	3.09523e-6	ZDHHC14	Peripheral or central vertigo	1.27815e-2	120	7565
+Colon-Transverse	X480.5	79.5308	3.16756e-6	ZBTB14	Bronchopneumonia and lung abscess	2.80200e-3	71	6217
+SmallIntestine-TerminalIleum	X443.7	-1.12518	3.24379e-6	TMEM123	Peripheral angiopathy in diseases classified elsewhere	7.67034e-2	24	6676
+Pituitary	X348.8	1.80355	3.30110e-6	TMEM5	Encephalopathy, not elsewhere classified	2.00038e-2	225	6544
+Brain-FrontalCortex-BA9	X255.11	37.3271	3.33061e-6	VAPB	Cushing's syndrome	8.94664e-2	28	7558
+Muscle-Skeletal	X642.1	3.1046	3.33156e-6	TRIP11	Preeclampsia and eclampsia	6.17389e-2	32	9047
+Skin-SunExposed-Lowerleg	X214.1	9.89161	3.46858e-6	VCP	Lipoma of skin and subcutaneous tissue	1.99049e-3	49	8688
+Adipose-Subcutaneous	X800.2	-1.1263	3.50828e-6	TOR1A	Fracture of unspecified part of femur	1.28321e-1	135	7283
+Artery-Aorta	X733	-3.17835	3.51352e-6	TMEM123	Other disorders of bone and cartilage	3.44684e-2	52	8372
+Cells-EBV-transformedlymphocytes	X772.2	10.212	3.58467e-6	ZNF287	Spasm of muscle	6.62725e-2	228	7828
+Brain-Caudate-basalganglia	X250.25	-1.67329	3.60151e-6	ZNF451	Diabetes type 2 with peripheral circulatory disorders	8.27836e-2	148	4936
+Brain-Putamen-basalganglia	X614.32	2.58162	3.62154e-6	TCP11L1	Chronic inflammatory pelvic disease	1.39031e-1	23	8581
+Brain-Cerebellum	X480.12	3.32435	3.73152e-6	TSPAN4	Pseudomonal pneumonia	2.30317e-2	105	6217
+AdrenalGland	X335	-5.0544	3.87912e-6	TUBGCP2	Multiple sclerosis	5.96676e-3	84	6421
+Brain-Cortex	X292.5	17.6572	3.92110e-6	TET2	Transient alteration of awareness	8.81461e-3	38	6654
+Brain-Putamen-basalganglia	X315.2	6.92754	3.97228e-6	TMEM126A	Speech and language disorder	7.65505e-3	21	8646
+Skin-SunExposed-Lowerleg	X214	1.99698	4.07522e-6	TCTN3	Lipoma	7.70116e-2	84	8688
+Breast-MammaryTissue	X586	1.26798	4.12655e-6	TEP1	Other disorders of the kidney and ureters	1.66326e-2	1300	5644
+Colon-Sigmoid	X686.1	-6.03336	4.13461e-6	ZSCAN16	Carbuncle and furuncle	4.58726e-3	42	6905
+Colon-Sigmoid	X367.2	-0.0309234	4.20021e-6	UNC45A	Astigmatism	8.09685e-2	58	8335
+Esophagus-Muscularis	X363	-3.22631	4.43921e-6	TEKT5	Chorioretinal inflammations, scars, and other disorders of choroid	1.53027e-2	26	7724
+Pituitary	X363	-10.3409	4.51414e-6	UPF3A	Chorioretinal inflammations, scars, and other disorders of choroid	1.27825e-2	26	7724
+SmallIntestine-TerminalIleum	X795.81	-1.52383	4.57386e-6	ZSWIM7	Elevated carcinoembryonic antigen [CEA]	1.33645e-1	38	8967
+Esophagus-Mucosa	X416	0.698483	4.62481e-6	UBAC1	Cardiomegaly	7.52738e-2	865	6945
+Heart-LeftVentricle	X597.2	-0.0532003	4.70704e-6	ZNF14	Urinary complications NEC	1.81949e-2	49	8074
+Artery-Tibial	X117.1	-3.00558	4.89168e-6	TSPAN4	Histoplasmosis	3.17880e-2	30	7391
+Heart-AtrialAppendage	X198.7	3.34815	5.24712e-6	ZDHHC4	Secondary malignant neoplasm of skin	2.84730e-2	61	6274
+Esophagus-Muscularis	X592.13	2.44608	5.29133e-6	ZSCAN9	Chronic interstitial cystitis	9.55286e-2	26	5793
+Brain-Putamen-basalganglia	X525.1	2.1174	5.30034e-6	TXN2	Loss of teeth or edentulism	8.00781e-2	42	8243
+Colon-Sigmoid	X627.21	0.17905	5.34594e-6	ZNF621	Symptomatic artificial menopause	6.69261e-2	46	7657
+Esophagus-Mucosa	X292.11	8.27766	5.40828e-6	ZNF865	Aphasia	1.09670e-3	86	6654
+Ovary	X250.13	-2.40912	5.53658e-6	TMEM200A	Type 1 diabetes with ophthalmic manifestations	1.43619e-3	98	4936
+Heart-LeftVentricle	X964	2.39078	5.61841e-6	ZNF248	Poisoning by agents primarily affecting blood constituents	4.41251e-2	44	6561
+Brain-Putamen-basalganglia	X204.11	-0.903337	5.63486e-6	TRPV6	Lymphoid leukemia, acute	1.33005e-1	150	8016
+Cells-EBV-transformedlymphocytes	X264.1	-1.65854	5.66892e-6	ZDHHC20	Short stature	1.78754e-1	35	6138
+Pancreas	X559	2.60337	5.73872e-6	ZNF573	Ileostomy status	3.74872e-3	146	5956
+SmallIntestine-TerminalIleum	X441	-11.3416	5.96704e-6	ZNF385A	Vascular insufficiency of intestine	1.46446e-3	75	6676
+Artery-Coronary	X840.3	3.00431	5.97241e-6	UBE3B	Joint/ligament sprain	2.82286e-2	112	7712
+Colon-Sigmoid	X589	3.79512	6.07664e-6	WDR81	Abnormal results of function study of kidney	1.76989e-2	50	5644
+Cells-EBV-transformedlymphocytes	X136	61.0786	6.13658e-6	TM4SF4	Other infectious and parasitic diseases	4.66725e-2	70	8712
+Cells-EBV-transformedlymphocytes	X516.1	11.725	6.14046e-6	UBE2F	Hemoptysis	2.95733e-3	182	8645
+Cells-EBV-transformedlymphocytes	X599.6	-0.199868	6.47398e-6	ZFYVE21	Oliguria and anuria	1.53417e-1	52	6083
+Skin-NotSunExposed-Suprapubic	X425.1	17.7979	6.49081e-6	ZC3H12C	Primary/intrinsic cardiomyopathies	2.00726e-3	593	7787
+Cells-EBV-transformedlymphocytes	X327.32	1.05862	6.53751e-6	ZNF557	Obstructive sleep apnea	3.02576e-2	564	6920
+Breast-MammaryTissue	X735.23	-13.3841	6.69042e-6	TIMM8B	Hallux rigidus	1.21085e-3	21	7256
+Heart-LeftVentricle	X560	-1.99601	6.69950e-6	VAMP4	Intestinal obstruction without mention of hernia	1.69394e-3	544	5956
+Esophagus-Mucosa	X426	1.56072	6.71721e-6	TMEM246	Cardiac conduction disorders	1.62486e-3	1245	4456
+Brain-Hippocampus	X352.1	1.86971	7.01451e-6	TCL1B	Trigeminal nerve disorders [CN5]	2.60531e-2	71	7504
+Artery-Aorta	X477	-1.81407	7.05188e-6	TRPT1	Epistaxis or throat hemorrhage	5.65676e-2	148	6193
+Muscle-Skeletal	X627.22	7.0015	7.21323e-6	TMEM63B	Need for Hormone replacement therapy (postmenopausal)	6.58208e-3	37	7657
+Brain-Anteriorcingulatecortex-BA24	X81.1	-8.54541	7.29209e-6	VPS35	Graft-versus-host disease	2.74707e-3	35	7508
+Brain-Hypothalamus	X525.1	-2.19471	7.32604e-6	ZNF616	Loss of teeth or edentulism	9.79866e-2	42	8243
+Muscle-Skeletal	X270	3.49913	7.51909e-6	TMEM5	Disorders of protein plasma/amino-acid transport and metabolism	1.34574e-3	237	8239
+Testis	X285.21	-13.7084	7.56889e-6	TPP2	Anemia in chronic kidney disease	2.39262e-3	282	4684
+Muscle-Skeletal	X151	2.7115	7.62213e-6	TMEM126A	Cancer of stomach	1.56560e-2	77	8073
+Brain-Anteriorcingulatecortex-BA24	X10	0.0186973	7.64132e-6	ZNF664	Tuberculosis	1.32938e-1	21	6607
+Cells-EBV-transformedlymphocytes	X349	68.117	7.65933e-6	TM4SF4	Other and unspecified disorders of the nervous system	4.66725e-2	66	6544
+Cells-EBV-transformedlymphocytes	X907	59.7088	7.68516e-6	TM4SF4	Injuries to the nervous system	4.66725e-2	79	8942
+Heart-AtrialAppendage	X521.1	4.73536	7.71852e-6	TJAP1	Dental caries	5.32247e-3	224	8243
+Liver	X508	-3.08253	7.90612e-6	TMEM234	Pulmonary collapse; interstitial and compensatory emphysema	4.18271e-2	1871	5061
+Ovary	X578.8	-5.21915	7.98551e-6	TMEM37	Hemorrhage of rectum and anus	6.80349e-2	192	6905
+AdrenalGland	X260	0.450975	8.05802e-6	ZNF25	Protein-calorie malnutrition	2.61566e-2	1164	6138
+Ovary	X751.22	0.61628	8.11046e-6	TMEM8B	Other specified congenital anomalies of kidney	1.10123e-1	34	8409
+Brain-CerebellarHemisphere	X362.29	-1.78235	8.39563e-6	ZNF211	Macular degeneration (senile) of retina NOS	1.37932e-2	92	7724
+Adipose-Subcutaneous	X578.2	-15.6387	8.43754e-6	TMEM140	Blood in stool	1.22457e-2	440	6905
+Brain-Nucleusaccumbens-basalganglia	X530.6	15.3512	8.44594e-6	UBAP1	Diverticulum of esophagus, acquired	8.90949e-3	21	5130
+Thyroid	X807	-10.0717	8.48661e-6	ZNF765	Fracture of ribs	1.75223e-3	156	7283
+Colon-Sigmoid	X414.2	4.26788	8.48994e-6	TSPAN32	ASCVD	1.83865e-3	94	5786
+Thyroid	X577.2	-5.26651	8.65172e-6	TWIST2	Chronic pancreatitis	1.93019e-3	65	8624
+Brain-FrontalCortex-BA9	X795.8	-3.7106	8.69578e-6	TSPAN3	Abnormal tumor markers	8.88895e-3	79	8967
+Nerve-Tibial	X357	-4.2462	8.74632e-6	ZNF596	Inflammatory and toxic neuropathy	1.71537e-3	82	7798
+Heart-LeftVentricle	X706.8	1.57561	8.79034e-6	VAMP2	Other specified diseases of sebaceous glands	4.58475e-2	52	8052
+Brain-Putamen-basalganglia	X477	-1.26347	8.82537e-6	TRPT1	Epistaxis or throat hemorrhage	7.19417e-2	148	6193
+Brain-Hypothalamus	X379.3	0.0615169	8.83514e-6	UBAC1	Aphakia and other disorders of lens	2.64607e-2	20	7801
+SmallIntestine-TerminalIleum	X601.1	23.3078	8.90070e-6	TSPAN3	Prostatitis	1.01556e-2	65	7335
+Artery-Coronary	X599.3	7.0464	8.98351e-6	TMEM100	Dysuria	3.64097e-3	455	6083
+Brain-Cortex	X560.3	-56.9392	9.00631e-6	WDTC1	Peritoneal or intestinal adhesions	3.81532e-2	44	5956
+Brain-Hippocampus	X218.1	-3.03747	9.02998e-6	TLR2	Uterine leiomyoma	1.84541e-2	96	8316
+Artery-Coronary	X695.9	60.8378	9.04542e-6	TCL1B	Unspecified erythematous condition	1.28483e-2	65	7590
+Spleen	X522.5	52.7677	9.14570e-6	VAMP2	Periapical abscess	2.22151e-2	37	8243
+Artery-Coronary	X90	-3.09417	9.50929e-6	TNIP2	Sexually transmitted infections (not HIV or hepatitis)	2.27827e-2	23	9069
+Thyroid	X800.3	1.85407	9.58773e-6	UBR4	Fracture of tibia and fibula	3.34896e-2	182	7283
+Brain-Hypothalamus	X728.1	2.4384	9.62255e-6	YJEFN3	Muscular calcification and ossification	7.83550e-2	20	6730
+Colon-Transverse	X367.8	81.544	9.80262e-6	ZBTB14	Hypermetropia	2.80200e-3	24	8335
+Brain-Caudate-basalganglia	X477	-1.21456	9.81277e-6	TRPT1	Epistaxis or throat hemorrhage	9.63757e-2	148	6193
+Ovary	X912	-10.0617	9.83019e-6	TMEM37	Insect bite	6.80349e-2	29	8855
+Artery-Coronary	X364	-8.18086	9.84636e-6	UTS2B	Corneal opacity and other disorders of cornea	9.71690e-3	60	7724
+Esophagus-GastroesophagealJunction	X961.1	4.15006	9.90412e-6	TCL1B	Poisoning/allergy of sulfonamides	1.22439e-1	24	6561
+Adipose-Subcutaneous	X416	2.06879	9.92744e-6	WDR72	Cardiomegaly	1.04616e-2	865	6945
