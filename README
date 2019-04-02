@@ -1,4 +1,4 @@
-Code and data for "Imputing the Effects of Ancient Alleles on Gene Regulation Reveals Differential Regulation Between Modern and Ancient Hominins"
+Code and data for "Imputing archaic hominin gene regulation reveals divergent regulation and phenotypic differences"
 
 scripts/
     comp_pop.jl 
@@ -13,12 +13,28 @@ scripts/
 	intersects gene models and SNPs or regions of interest
 	requires lists of regions of interest
 
+    human_dr.jl
+        for a set of human IDs, calculates empirical P-value and call DR genes
+
+    intro_individuals.jl
+        for each gene, identifies individuals with certain alleles within 1Mb
+
+    metric_summary_by_gene.jl
+        generalized version of recombination_rate_map.jl; compares a metric (i.e. gene density) across sets of genes
+
     model_weights.jl
 	stats for comparing model weights between sets of SNPs
 	requires model databases, SNP sets
 
     neanderthal_predixcan_plots.ipynb
         Jupyter notebook for plotting
+
+    PrediXcan.py
+        code for performing PrediXcan predictions on genetic information. 
+	adapted from script downloaded here on May 19, 2017: https://github.com/hakyimlab/PrediXcan/tree/master/Software
+
+    recombination_rate_map.jl
+        calculates recombination rate and summarizes for gene regions, then compares R.R. across gene sets.
 
 data/
     *predExp.txt
@@ -31,10 +47,10 @@ data/
 	lists of introgressed and desert gene models by Ensembl ID and/or Name
     gene-dersnp_intersection.txt
 	genes by ensembl ID and counts of archaic derived SNPs within 1Mb of them
-
+    gene_region_neanSNPs.txt.gz
+        for each gene, list of introgressed SNPs (by rsID) within 1 Mb
     DR_crossSpeces_GO.tgz
 	cross-species GO analyses- overlap of DR genes
-
     diff_crossSpeces_GO.tgz
 	cross-species GO analyses- difference in predicted expression
 
