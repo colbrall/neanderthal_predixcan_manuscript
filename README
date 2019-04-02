@@ -17,6 +17,9 @@ scripts/
 	stats for comparing model weights between sets of SNPs
 	requires model databases, SNP sets
 
+    neanderthal_predixcan_plots.ipynb
+        Jupyter notebook for plotting
+
 data/
     *predExp.txt
 	archaic predicted expression files
@@ -29,11 +32,9 @@ data/
     gene-dersnp_intersection.txt
 	genes by ensembl ID and counts of archaic derived SNPs within 1Mb of them
 
-DR_genes_GO/
+    DR_crossSpeces_GO.tgz
 	cross-species GO analyses- overlap of DR genes
 
-species_diff_GO/
+    diff_crossSpeces_GO.tgz
 	cross-species GO analyses- difference in predicted expression
 
-neanderthal_predixcan_plots.ipynb 
-	Jupyter notebook for plotting
