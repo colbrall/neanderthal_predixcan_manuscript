@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Python 2.4
 
 import argparse
 from collections import defaultdict

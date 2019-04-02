@@ -1,8 +1,9 @@
 # model_weights.jl
 # @author Laura Colbran
-# 2017-11-28
 #
-# compares models weights between two sets of SNPs of interest
+# compares model weights of two sets of SNPs
+# 2017-11-28
+# julia0.6.1
 
 using DataFrames
 using GZip
@@ -40,7 +41,46 @@ function readDF(f_path::String)
   return df
 end
 
-# called by compweights()
+# picks and returns set of random SNPs matched by MAF
+# full_snp_list = output from getAF
+# ARGS: target_list full_snp_list
+function matchMAF(args::Array{String,1},chr_col::Int64,pos_col::Int64)
+  targets = readDF("$(realpath(args[1]))")::DataFrames.DataFrame
+  full_list = readDF("$(realpath(args[2]))")::DataFrames.DataFrame
+  full_list[:row] = collect(1:nrow(full_list))
+  full_list[:neg] = false
+  targets[:AF] = 0.0
+  for i in 1:nrow(targets)
+    try
+      targ_row = full_list[(full_list[:,1] .== targets[i,chr_col]) & (full_list[:,2] .== targets[i,pos_col]),:row][1]
+      targets[i,:AF] = full_list[targ_row,4][1]
+      full_list[targ_row,:neg] = true #marking the target snps for later removal
+    catch
+      targets[i,:AF] = NA
+    end
+  end
+  complete_cases!(targets)
+  full_list = full_list[full_list[:,:neg] .== false,:] #remove targets from possible matches
+  full_list[:row] = collect(1:nrow(full_list))
+  breakpoints = [0,0.01,0.05,0.1,0.2,0.3,0.4,0.5]
+  for i in 1:(length(breakpoints)-1)#loop through chunks of AF to match target genes
+    const top = breakpoints[i+1]
+    const bottom = breakpoints[i]
+    const num_needed = nrow(targets[(targets[:,:AF] .> bottom)&(targets[:,:AF] .<= top),:])
+    tmp = full_list[(full_list[:,4] .> bottom)&(full_list[:,4] .<= top)&(full_list[:neg].==false),:]::DataFrames.DataFrame #pull snps not in target list, but within AF range
+    while nrow(tmp) < num_needed # make sure we have enough snps to match
+      top += 0.1*(top-bottom)
+      bottom -= 0.1*(top-bottom)
+      tmp = full_list[(full_list[:,4] .> bottom)&(full_list[:,4] .<= top)&(full_list[:neg].==false),:]
+    end
+    rand_rows = full_list[sample(tmp[:row],num_needed,replace=false),:row] #grab random sample of appropriate snps
+    full_list[rand_rows,:neg] = true
+  end
+  full_list = full_list[full_list[:,:neg],[1,2,3]]
+  full_list[:,:start] = full_list[:,2] - 1
+  writedlm("random_af-matched_snps.bed", convert(Array,full_list[:,[1,4,2,3]]), '\t') #convert to BED and save
+end
+
 function getWeights(snp_df::DataFrames.DataFrame,db_dir::String,tiss_stat::String)
   n_db = length(filter(x -> endswith(x,".db"),readdir(db_dir)))
   n_done = 0
@@ -191,6 +231,8 @@ end
 
 function main()
   infiles = ARGS[:,1]::Array{String,1}
+  #getAF(infiles) #assumes for PrediXcan model SNP list format
+  #matchMAF(infiles,1,3) #for bed file
   compWeights(infiles) #stat can be mean, max, min- determines how snps are summarized within a tissue
 end
 

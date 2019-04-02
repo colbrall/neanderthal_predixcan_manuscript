@@ -4,6 +4,8 @@
 # assumes bed files are sorted
 # usage: julia gene_overlap.jl ARGS
 # look above each function for specific ARGS
+#
+# julia0.6.1
 
 using DataFrames
 using GenomicFeatures
