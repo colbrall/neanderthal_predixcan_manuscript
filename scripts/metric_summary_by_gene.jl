@@ -8,6 +8,7 @@ using ArgParse
 using CSV
 using DataFrames
 using StatsBase
+using Statistics
 using HypothesisTests
 using StatsPlots
 using RCall
@@ -35,6 +36,9 @@ function parse_commandline()
         "--targetlist", "-t"
             help = "list of gene IDs for your target set (usually DR genes)"
             arg_type = String
+	"--only"
+	    help="if you Only want the regions specifies by -r"
+	    action = :store_true
         "--exclude", "-e"
             nargs='*'
             help = "file(s) for genes to exclude"
@@ -70,7 +74,7 @@ end
 
 # bins a distribution of gene metric, returns array of lower bounds of bins
 function bins(dist::Array{Float64,1},max::Float64,num_bins::Int64)
-    cut_points = collect(range(0,max,step=max/num_bins))
+    cut_points = collect(range(minimum(dist),max,step=max/num_bins))
     bins = zeros(length(dist))
     for i in 1:length(dist)
         j = 1
@@ -146,11 +150,11 @@ function genomeWide(metric::DataFrames.DataFrame,regions::Array{String,1},label:
     @df metric boxplot(:set,:score, 
                     xlabel = "Region Set",
                     ylabel = "$label",
-                    color = [:blue],
+                    color=[:white],
                     outliers = false
                     )
     savefig("$(label)_boxplot.pdf")
-    if length(regions) > 1
+    if length(unique(metric[:set])) > 2
         R"""
         suppressPackageStartupMessages(library(dplyr))
         suppressPackageStartupMessages(library(dunn.test))
@@ -164,8 +168,12 @@ function genomeWide(metric::DataFrames.DataFrame,regions::Array{String,1},label:
         )
         dunn.test(df$score,df$set,method="bh")
         """
-    elseif length(regions) == 1
-        println(MannWhitneyUTest(metric[metric[:set] .== label(regions),:rate],metric[metric[:set] .== "Other",:score]))
+    elseif length(unique(metric[:set])) == 2
+        println(unique(metric[:set])[1])
+        println(median(metric[metric[:set] .== unique(metric[:set])[1],:score]))
+        println(unique(metric[:set])[2])
+        println(median(metric[metric[:set] .== unique(metric[:set])[2],:score]))
+        println(MannWhitneyUTest(metric[metric[:set] .== unique(metric[:set])[1],:score],metric[metric[:set] .== unique(metric[:set])[2],:score]))
     end
 end
 
@@ -184,6 +192,7 @@ function prop(metric::DataFrames.DataFrame, target_file::String,label::String,bi
                 targetprop = :target => x-> sum(x)/count(!ismissing,x),
                 gene_count = :target => y-> count(!ismissing,y))
         println("$(region):")
+        println("Rho: $(corspearman(binned_rates[:bins],binned_rates[:targetprop]))")
         println(OneSampleZTest(atanh(corspearman(binned_rates[:bins],binned_rates[:targetprop])),
                              1, nrow(binned_rates)))
         @df binned_rates scatter!(:bins,:targetprop, 
@@ -192,6 +201,7 @@ function prop(metric::DataFrames.DataFrame, target_file::String,label::String,bi
                     leg = true,
                     label = region,
                     smooth= true,
+                    #marker = 10,
                     )
         savefig("$(label)_proportion_scatter.pdf")
         println("$region:")
@@ -222,7 +232,7 @@ function oddsRatio(metric::DataFrames.DataFrame,regions::Array{String,1},targets
 end
 
 # splits genes in metric file into sets of regions, calls functions for various sets of stats
-function comparison(metric_file::String,regions::Array{String,1},label::String,bin_params,targetlist,proportion,odds,excl)    
+function comparison(metric_file::String,regions::Array{String,1},label::String,bin_params,targetlist,proportion,odds,excl,only)    
     metric = CSV.read(metric_file; delim='\t',allowmissing=:none,header=[:gene,:score],comment="#")    
     metric[:gene] = idOnly(metric[:gene])
     metric[:score] = metric[:score]*1. #make sure it's a float
@@ -236,6 +246,9 @@ function comparison(metric_file::String,regions::Array{String,1},label::String,b
         for gene in CSV.read(file_path; delim='\t',header=[:gene])[:gene]
             metric[metric[:gene] .== split(gene,'.')[1],:set] = labelSet(file_path)
         end
+    end
+    if only
+	metric = metric[metric[:set] .!= "Other",:]
     end
     if proportion
         prop(metric,targetlist,label,bin_params)
@@ -253,7 +266,7 @@ function main()
     end
     if parsed_args["comparison"]
         comparison(parsed_args["metric"], parsed_args["regions"], parsed_args["label"], parsed_args["bins"], parsed_args["targetlist"], parsed_args["proportion"],
-                parsed_args["odds"],parsed_args["exclude"])
+                parsed_args["odds"],parsed_args["exclude"],parsed_args["only"])
     end
 end
 

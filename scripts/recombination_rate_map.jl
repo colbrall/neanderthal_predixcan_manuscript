@@ -424,9 +424,9 @@ function oddsRatio(regions::Array{String,1},targets::String,excl)
     region_rates[:target] = 0
     region_rates = vcat(region_rates,tmp)
     region_rates[:mean_bins] = bins(region_rates[:w_mean],2.4,30)   
-    
     # calulate Odds Ratio of Target for each set vs. everything else
     r = region_rates[region_rates[:set] .== label(regions[1]),:]
+    CSV.write("regions.txt",r;delim='\t')
     r_target = nrow(r[r[:target] .== 1,:])
     matched = matchRates(r,region_rates[region_rates[:set] .!= label(regions[1]),:])
     match_target = nrow(matched[matched[:target] .== 1,:])
