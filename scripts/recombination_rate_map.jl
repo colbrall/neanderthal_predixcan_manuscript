@@ -3,7 +3,7 @@
 # calculates recombination rate for a given window and sets of files 
 # assumes, if it's genome wide, that you have a file per chromosome (otherwise locations aren't mapped to a chromosome)
 #
-# require system-installed intersectBed
+# require system-installed intersectBed and R, with the dunn.test package
 # julia 1.1
 
 using ArgParse
