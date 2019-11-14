@@ -1,4 +1,5 @@
-Code and data for "Imputing archaic hominin gene regulation reveals divergent regulation and phenotypic differences"
+Code and data for "Inferred divergent gene regulation in archaic hominins reveals potential phenotypic differences"
+https://doi.org/10.1038/s41559-019-0996-x
 
 scripts/
     comp_pop.jl 
@@ -38,25 +39,54 @@ scripts/
 
 data/
     *predExp.txt
-	archaic predicted expression files
-	Supplementary Tables S6, S12, S14, S16
+	archaic predicted expression files-- genes x tissue matrix. altai_original indicated original genome called 
+	for Altai neanderthal, used for most analyses. altai_update is the updated one used for comparisons to 
+	other hominins.
+	
     *pvalues_2sided.txt
-	archaic 1kG empirical p-values
-	Supplementary Tables S7, S13, S15, S17
-    *phewas.txt
-	PheWAS results tables
-	Supplementary Table S10
-    *genes*
-	lists of introgressed and desert gene models by Ensembl ID and/or Name
-	Supplementary Tables S5, S11
+	archaic 1kG empirical p-values-- genes x tissue matrix. matched to predExp file. A gene is DR in a tissue
+	if this p-value equals zero. NA indicates that the gene was not successfully modelled in that tissue.
+	
+    altai_disgenet.txt
+    	Disgenet enrichments for DR GWARRS. corresponds to fig. 2d.
+	
+    altai_dr_phewas.txt
+	phenotype associations with differential regulation of DR GWARRs. Corresponds to figure 3 and Table 1.
+	
+    altai_desert_genes.txt
+    	genes with at least 1 SNP in any of their tissue models that overlaps an introgression desert. Ensembl ids.
+	
+    altai_intro_genes.txt
+	genes with at least 1 SNP in any of their tissue models that is on an introgressed haplotype (ie are non-GWARRs). 
+	Anti-join this list and the genes in predixcan_model_summary.txt to get all GWARRs.
+	
+    altai_intro_genes_names.txt
+    	human-readable names of the genes in the file above.
+	
+    altai_original_nonIntro_DR_genes.txt
+    	ensembl ids for all DR GWARRs. locations plotted in figure 2b.
+	
+    altai_original_missingModels.txt
+    	all genes for which the Altai genome was missing all SNPs in at least one tissue model. These were excluded 
+	from analyses.
+    
     gene-dersnp_intersection.txt
-	genes by ensembl ID and counts of archaic derived SNPs within 1Mb of them
+	genes by ensembl ID and counts of archaic-derived SNPs within 1Mb of them
+	
     gene_region_neanSNPs.txt.gz
-        for each gene, list of introgressed SNPs (by rsID) within 1 Mb
+        for each gene, list of introgressed SNPs (by rsID) within 1 Mb (ie the region considered by PrediXcan). 
+	
     DR_crossSpeces_GO.tgz
-	cross-species GO analyses- overlap of DR genes
-	Supplementary Table S18
+	cross-species GO analyses- overlap of DR genes. Corresponds to figure 5b.
+	
     diff_crossSpeces_GO.tgz
-	cross-species GO analyses- difference in predicted expression
-	Supplementary Table S19
+	cross-species GO analyses- absolute difference in regulation. corresponds to figure 5c.
+	
+    gencode.v12.annotation.bed.gz
+    	hg19 gene locations. A gene's location is considered to be all bases covered by at least 1 version of the gene.
 
+predixcan_model_summary.txt
+    	summary of all predixcan models in all tissues. models described by ensembl id, and includes model performance 
+	(R2 for observed/predicted in training), number of snps in the model, number of those SNPs that were 
+	missing in Altai_original, number of introgressed SNPs in the model, number of SNPs shared between AMH and 
+	Altai, and the empirical p-value for divergent regulation (same as in altai_original_pvalues_2sided.txt)
