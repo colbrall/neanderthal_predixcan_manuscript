@@ -5,9 +5,8 @@ We anticipate that the most common quest that would bring people here is searchi
 in the majority of the paper. To get the full list of DR genes in the Altai Neanderthal discussed in figures 2-4, look in 
 `./data/altai_original_pvalues_2sided.txt`. This is a gene x tissue matrix containing empirical p-values calculated vs. 
 1000 Genomes. A gene is DR in a particular tissue if p=0, and "NA" indicates that the gene was not succesfully modeled in 
-that tissue. If you want specifically the **DR GWARRs** do an antijoin on gene id between this file and 
-`./data/altai_intro_genes.txt`, then another antijoin with `./data/altai_original_missingModels.txt`; GWARRs are all 
-genes that are not introgressed and are not missing all SNPs.
+that tissue. If you want specifically the **DR GWARRs** you look at `altai_original_nonIntro_DR_genes.txt`. If you want to 
+know what tissues they were DR in, you can join those ids with the p-value file.
 
 If you want DR genes to compare between archaic hominins, look in `./data/altai_update_pvalues_2sided.txt`, 
 `./data/denisovan_update_pvalues_2sided.txt`, and `./data/vindija_pvalues_2sided.txt` and again identify genes for 
@@ -52,9 +51,9 @@ Further description of files in this repo:
 
 ### data/
 `*predExp.txt`\
-	archaic predicted expression files-- genes x tissue matrix. altai_original indicated original genome called 
-	for Altai neanderthal, used for most analyses. altai_update is the updated one used for comparisons to 
-	other hominins.
+	archaic prediction files-- genes x tissue matrix containing PrediXcan output for each gene model. altai_original
+	indicates original genome called for Altai neanderthal, used for most analyses. altai_update is the updated one used 
+	for comparisons to other hominins.
 
 `*pvalues_2sided.txt`\
 	archaic 1kG empirical p-values-- genes x tissue matrix. matched to predExp file. A gene is DR in a tissue
@@ -101,5 +100,6 @@ Further description of files in this repo:
 `predixcan_model_summary.txt`\
 	summary of all predixcan models in all tissues. models described by ensembl id, and includes model performance 
 	(R2 for observed/predicted in training), number of snps in the model, number of those SNPs that were 
-	missing in Altai_original, number of introgressed SNPs in the model, number of SNPs shared between AMH and 
-	Altai, and the empirical p-value for divergent regulation (same as in altai_original_pvalues_2sided.txt)
+	missing in Altai_original, number of introgressed SNPs in the model (if 0 it's a GWARR), number of SNPs shared  
+	between AMH and Altai, and the empirical p-value for divergent regulation (same as in 	
+	altai_original_pvalues_2sided.txt)
